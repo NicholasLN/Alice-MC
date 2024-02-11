@@ -1,0 +1,736 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -10
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -61
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -5
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 177
+	influence_value = 31
+	level = 4
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -232
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 25
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 206
+	influence_value = 39
+	level = 4
+}
+LOU = {
+	value = -13
+	level = 2
+}
+LTN = {
+	value = 29
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -13
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -13
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 197
+	influence_value = 36
+	level = 4
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = -12
+	level = 2
+}
+WES = {
+	value = -45
+	level = 2
+}
+WSI = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -11
+	level = 2
+}
+X04 = {
+	value = -12
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 272
+	influence_value = 55
+	level = 4
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -14
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = -3
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lambert z Veleslavína"
+	date="1815.12.3"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Imram Veliký"
+	date="1818.9.17"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Aldï¿½ric z Veleslavína"
+	date="1830.5.10"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=644
+	regiment = {
+		name="1st Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Varaždin Infantry"
+		type=infantry
+		home=775
+	}
+	regiment = {
+		name="1st Mitrovica Artillery"
+		type=artillery
+		home=791
+	}
+	regiment = {
+		name="1st Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="2nd Varaždin Infantry"
+		type=infantry
+		home=775
+	}
+}
+
+army = {
+	name="Hessian Jaegerkorps"
+	location=644
+	regiment = {
+		name="2nd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="3rd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="4th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="2nd Mitrovica Artillery"
+		type=artillery
+		home=791
+	}
+	regiment = {
+		name="5th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Vienna Artillery"
+		type=artillery
+		home=619
+	}
+}
+
+army = {
+	name="4th Army"
+	location=602
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Regensburg Cavalry"
+		type=cavalry
+		home=602
+	}
+	regiment = {
+		name="1st Landshut Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="2nd Landshut Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="3rd Landshut Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="4th Landshut Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="1st Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="2nd Regensburg Cavalry"
+		type=cavalry
+		home=602
+	}
+	regiment = {
+		name="1st Ingolstadt Cavalry"
+		type=cavalry
+		home=601
+	}
+}
+
+army = {
+	name="1st Army"
+	location=635
+	regiment = {
+		name="1st Banská Bystrica Artillery"
+		type=artillery
+		home=636
+	}
+}
+
+army = {
+	name="1st Army"
+	location=654
+	regiment = {
+		name="1st Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="1st Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="1st Tirgoviste Cavalry"
+		type=cavalry
+		home=667
+	}
+	regiment = {
+		name="1st Nagyszeben Cavalry"
+		type=cavalry
+		home=657
+	}
+	regiment = {
+		name="1st Targu Mures Artillery"
+		type=artillery
+		home=2533
+	}
+	regiment = {
+		name="2nd Targu Mures Artillery"
+		type=artillery
+		home=2533
+	}
+	regiment = {
+		name="1st Tirgoviste Infantry"
+		type=infantry
+		home=667
+	}
+	regiment = {
+		name="1st Tirgu Jiu Cavalry"
+		type=cavalry
+		home=665
+	}
+	regiment = {
+		name="1st Udvarhely Cavalry"
+		type=cavalry
+		home=660
+	}
+	regiment = {
+		name="1st Udvarhely Artillery"
+		type=artillery
+		home=660
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=659
+	regiment = {
+		name="1st Pancevo Artillery"
+		type=artillery
+		home=792
+	}
+	regiment = {
+		name="1st Ungvár Artillery"
+		type=artillery
+		home=950
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=SCA
+controller=CST
+add_core=CST
+trade_goods = grain
+life_rating = 31
+terrain = mountain

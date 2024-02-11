@@ -1,0 +1,8 @@
+owner=SYC
+controller=SYC
+add_core=SYC
+add_core=TLC
+trade_goods = fruit
+life_rating = 35
+naval_base = 2
+fort = 2

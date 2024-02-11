@@ -1,0 +1,1855 @@
+1794 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 5242
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1835
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 2293
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 23
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 22945
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 6986
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 2445
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 8406
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 84
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1009
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 24187
+	}
+
+}
+1795 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 265
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1298
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 4456
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 4299
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1505
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 15908
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 511
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 2506
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 91
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 2933
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 1027
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 2566
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 26
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 11151
+	}
+
+}
+1796 = {
+	slaves=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 1758
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 328
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 3775
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1502
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 631
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 281
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 37
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 9509
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1775
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 18095
+	}
+
+}
+1797 = {
+	slaves=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 1864
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 3707
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 5294
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 283
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 317
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 37
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 10079
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1787
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 14523
+	}
+
+}
+1798 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 2063
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1428
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 510
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 21250
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 4028
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 2787
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 2501
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 469
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 88
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 525
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 39276
+	}
+
+}
+1799 = {
+	slaves=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 12259
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 2135
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 2669
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 42
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 20694
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 5756
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1003
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 3452
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 54
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 7208
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 10441
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 1819
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 6271
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 336
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 99
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 13066
+	}
+
+}
+1800 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 3902
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 634
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1586
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 285
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 16025
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = catholic
+		size= 18639
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = catholic
+		size= 16732
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = catholic
+		size= 1793
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 251
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = catholic
+		size= 251
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 3012
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = catholic
+		size= 63382
+	}
+
+}
+1801 = {
+	slaves=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 896
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 268
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 3616
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 2700
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 43
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1081
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 323
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1346
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 3766
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 1125
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 1587
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 13369
+	}
+
+}
+1802 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 2485
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 522
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1306
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 13929
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = catholic
+		size= 9770
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = catholic
+		size= 2054
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = catholic
+		size= 11576
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = catholic
+		size= 1240
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 174
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = catholic
+		size= 174
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 2084
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = catholic
+		size= 46282
+	}
+
+}
+1803 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 15240
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 3612
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 5330
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 444
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 131
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1492
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 38150
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = catholic
+		size= 4006
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = catholic
+		size= 949
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = catholic
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = catholic
+		size= 11365
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 1808
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 428
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 861
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 4205
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1553
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 368
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1970
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 48
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 552
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1882
+	}
+
+}
+1804 = {
+	slaves=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 1707
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 786
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 1148
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 14
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = west_african_pagan_reformed
+		size= 17209
+	}
+
+	slaves=
+	{
+		culture = bambara
+		religion = catholic
+		size= 6705
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = catholic
+		size= 11165
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = catholic
+		size= 1197
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 135
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 198
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 2009
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 57810
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 262
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 707
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = catholic
+		size= 1946
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 276
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 1666
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = west_african_pagan_reformed
+		size= 833
+	}
+
+	slaves=
+	{
+		culture = bambara
+		religion = protestant
+		size= 1236
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 568
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = protestant
+		size= 3041
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = protestant
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = protestant
+		size= 547
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = protestant
+		size= 9551
+	}
+
+}
+1805 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 12312
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 9006
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 142
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1621
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 36529
+	}
+
+}
+1807 = {
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1411
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = west_african_pagan_reformed
+		size= 786
+	}
+
+}
+2609 = {
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 207
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 159
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 3259
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = west_african_pagan_reformed
+		size= 540
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=IRQ
+controller=IRQ
+add_core=GRE
+add_core=IRQ
+add_core=TBZ
+trade_goods = iron
+life_rating = 35
+fort = 1

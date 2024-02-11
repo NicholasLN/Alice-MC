@@ -1,0 +1,10 @@
+owner=AST
+controller=AST
+add_core=AST
+add_core=FJL
+add_core=FJV
+add_core=FJW
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+fort = 1

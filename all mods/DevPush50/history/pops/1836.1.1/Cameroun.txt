@@ -1,0 +1,907 @@
+1956 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 9186
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1076
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 3766
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 81
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 39261
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = catholic
+		size= 3259
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 382
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 6438
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 299
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 138
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 386
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 8124
+	}
+
+}
+1957 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2305
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 7965
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = catholic
+		size= 82
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 92
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 8317
+	}
+
+	soldiers=
+	{
+		culture = africano
+		religion = catholic
+		size= 1087
+	}
+
+	artisans=
+	{
+		culture = africano
+		religion = catholic
+		size= 1775
+	}
+
+	clergymen=
+	{
+		culture = africano
+		religion = catholic
+		size= 577
+	}
+
+	bureaucrats=
+	{
+		culture = africano
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = africano
+		religion = catholic
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = africano
+		religion = catholic
+		size= 559
+	}
+
+	farmers=
+	{
+		culture = africano
+		religion = catholic
+		size= 26327
+	}
+
+}
+1958 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 5249
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 577
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2021
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 43
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 20747
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = catholic
+		size= 1862
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 3455
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 74
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 4247
+	}
+
+}
+1959 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 525
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 1125
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 16800
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = animist
+		size= 9000
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 575
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 2325
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 39350
+	}
+
+	slaves=
+	{
+		culture = tiv
+		religion = animist
+		size= 14000
+	}
+
+}
+1960 = {
+	aristocrats=
+	{
+		culture = tiv
+		religion = sunni
+		size= 1375
+	}
+
+	clergymen=
+	{
+		culture = tiv
+		religion = sunni
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = tiv
+		religion = sunni
+		size= 2775
+	}
+
+	soldiers=
+	{
+		culture = tiv
+		religion = sunni
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = tiv
+		religion = sunni
+		size= 44450
+	}
+
+	slaves=
+	{
+		culture = tiv
+		religion = animist
+		size= 19000
+	}
+
+}
+1961 = {
+	aristocrats=
+	{
+		culture = tiv
+		religion = animist
+		size= 1850
+	}
+
+	clergymen=
+	{
+		culture = tiv
+		religion = animist
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = tiv
+		religion = animist
+		size= 3725
+	}
+
+	soldiers=
+	{
+		culture = tiv
+		religion = animist
+		size= 950
+	}
+
+	farmers=
+	{
+		culture = tiv
+		religion = animist
+		size= 75575
+	}
+
+	slaves=
+	{
+		culture = ibibio
+		religion = animist
+		size= 10000
+	}
+
+}
+1962 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 1225
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 2500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 625
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 34025
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = animist
+		size= 17000
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 725
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 10600
+	}
+
+	slaves=
+	{
+		culture = ubangian
+		religion = animist
+		size= 6000
+	}
+
+}
+1963 = {
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 500
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 25
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1050
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 19825
+	}
+
+	aristocrats=
+	{
+		culture = ubangian
+		religion = animist
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = ubangian
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = ubangian
+		religion = animist
+		size= 575
+	}
+
+	soldiers=
+	{
+		culture = ubangian
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = ubangian
+		religion = animist
+		size= 12850
+	}
+
+	slaves=
+	{
+		culture = tiv
+		religion = animist
+		size= 4000
+	}
+
+}
+1964 = {
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 800
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 700
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 27400
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = sunni
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = sunni
+		size= 20600
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 18300
+	}
+
+	aristocrats=
+	{
+		culture = baguirmi
+		religion = animist
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = baguirmi
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = baguirmi
+		religion = animist
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = baguirmi
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = baguirmi
+		religion = animist
+		size= 23100
+	}
+
+	slaves=
+	{
+		culture = kanuri
+		religion = sunni
+		size= 6000
+	}
+
+	slaves=
+	{
+		culture = sara
+		religion = sunni
+		size= 6000
+	}
+
+}

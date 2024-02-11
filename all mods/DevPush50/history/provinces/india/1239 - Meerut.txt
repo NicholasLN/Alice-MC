@@ -1,0 +1,8 @@
+owner=X10
+controller=X10
+add_core=GHR
+add_core=HND
+add_core=X10
+trade_goods = grain
+life_rating = 32
+fort = 1

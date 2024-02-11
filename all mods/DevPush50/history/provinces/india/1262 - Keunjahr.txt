@@ -1,0 +1,8 @@
+owner=ORI
+controller=ORI
+add_core=HND
+add_core=MYS
+add_core=ORI
+add_core=X10
+trade_goods = grain
+life_rating = 32

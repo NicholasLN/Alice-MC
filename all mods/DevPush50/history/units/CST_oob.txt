@@ -1,0 +1,735 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AKH = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 14
+	level = 2
+}
+ATR = {
+	value = -55
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -59
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 129
+	influence_value = 19
+	level = 3
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -20
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 40
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = -3
+	level = 2
+}
+ITA = {
+	value = -2
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 102
+	influence_value = 13
+	level = 3
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -62
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 198
+	influence_value = 37
+	level = 2
+}
+USA = {
+	value = -11
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -32
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Étienne de Castilla"
+	date="1803.8.25"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Martín de Bazán"
+	date="1815.10.28"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Thiébaut de Nebrija"
+	date="1818.2.19"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Thiébaut de Nebrija"
+	date="1822.2.23"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Martín Portocarrero"
+	date="1830.4.4"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1876
+	ship = {
+		name="América"
+		type=manowar
+	}
+	ship = {
+		name="Buen Consejo"
+		type=manowar
+	}
+}
+
+army = {
+	name="Ejército de Cantabrie"
+	location=479
+	regiment = {
+		name="1st Huesca Infantry"
+		type=infantry
+		home=496
+	}
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Sigüenza Artillery"
+		type=artillery
+		home=488
+	}
+	regiment = {
+		name="3rd León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="2nd León Artillery"
+		type=artillery
+		home=477
+	}
+}
+
+army = {
+	name="Ejército de Coro"
+	location=2131
+	regiment = {
+		name="1st Salamanca Infantry"
+		type=infantry
+		home=482
+	}
+	regiment = {
+		name="2nd Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Ávila Artillery"
+		type=artillery
+		home=483
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=477
+	}
+}
+
+navy = {
+	name="Flota de Cantabrie"
+	location=1451
+	ship = {
+		name="Ángel de la Guarda"
+		type=manowar
+	}
+	ship = {
+		name="Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila de Nantes"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila Volante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Astrolabio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Aurora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Concepción"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Ejército de Zamora"
+	location=477
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="1st Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="1st Huesca Artillery"
+		type=artillery
+		home=496
+	}
+	regiment = {
+		name="2nd León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="1st Salamanca Artillery"
+		type=artillery
+		home=482
+	}
+}
+

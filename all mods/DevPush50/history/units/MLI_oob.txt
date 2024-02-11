@@ -1,0 +1,748 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 44
+	level = 2
+}
+GEN = {
+	value = 2
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 3
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+KBO = {
+	value = 178
+	influence_value = 32
+	level = 4
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -77
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 10
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1877
+	ship = {
+		name="Abuja"
+		type=manowar
+	}
+	ship = {
+		name="Ede"
+		type=manowar
+	}
+	ship = {
+		name="Enugu"
+		type=manowar
+	}
+	ship = {
+		name="1st Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rosso Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1792
+	regiment = {
+		name="1st Agades Infantry"
+		type=infantry
+		home=1812
+	}
+	regiment = {
+		name="1st Say Infantry"
+		type=infantry
+		home=1809
+	}
+	regiment = {
+		name="2nd Agades Infantry"
+		type=infantry
+		home=1812
+	}
+	regiment = {
+		name="1st Abomey Cavalry"
+		type=cavalry
+		home=1920
+	}
+	regiment = {
+		name="1st Zaria Artillery"
+		type=artillery
+		home=1939
+	}
+	regiment = {
+		name="1st Kano Artillery"
+		type=artillery
+		home=1945
+	}
+	regiment = {
+		name="1st Fada Ngourma Artillery"
+		type=artillery
+		home=1904
+	}
+	regiment = {
+		name="1st Wahiguya Artillery"
+		type=artillery
+		home=1902
+	}
+	regiment = {
+		name="1st Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="1st Dosso Cavalry"
+		type=cavalry
+		home=1810
+	}
+	regiment = {
+		name="2nd Maradi Artillery"
+		type=artillery
+		home=1811
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1803
+	regiment = {
+		name="1st Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="1st Bondouku Infantry"
+		type=infantry
+		home=1899
+	}
+	regiment = {
+		name="1st Agades Cavalry"
+		type=cavalry
+		home=1812
+	}
+	regiment = {
+		name="2nd Kano Artillery"
+		type=artillery
+		home=1945
+	}
+	regiment = {
+		name="1st Dosso Artillery"
+		type=artillery
+		home=1810
+	}
+	regiment = {
+		name="1st Katsina Artillery"
+		type=artillery
+		home=1947
+	}
+	regiment = {
+		name="1st Agades Artillery"
+		type=artillery
+		home=1812
+	}
+	regiment = {
+		name="2nd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="3rd Agades Cavalry"
+		type=cavalry
+		home=1812
+	}
+	regiment = {
+		name="3rd Kano Artillery"
+		type=artillery
+		home=1945
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1811
+	regiment = {
+		name="1st Bissau Infantry"
+		type=infantry
+		home=1877
+	}
+	regiment = {
+		name="1st Kano Infantry"
+		type=infantry
+		home=1945
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2919
+	ship = {
+		name="Kaduna"
+		type=frigate
+	}
+	ship = {
+		name="Kano"
+		type=frigate
+	}
+	ship = {
+		name="Katsina"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1913
+	regiment = {
+		name="1st Jugu Infantry"
+		type=infantry
+		home=1922
+	}
+	regiment = {
+		name="3rd Agades Infantry"
+		type=infantry
+		home=1812
+	}
+	regiment = {
+		name="1st Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Fada Ngourma Cavalry"
+		type=cavalry
+		home=1904
+	}
+	regiment = {
+		name="2nd Katsina Artillery"
+		type=artillery
+		home=1947
+	}
+	regiment = {
+		name="1st Sokoto Artillery"
+		type=artillery
+		home=1948
+	}
+	regiment = {
+		name="2nd Sokoto Artillery"
+		type=artillery
+		home=1948
+	}
+	regiment = {
+		name="1st Maradi Artillery"
+		type=artillery
+		home=1811
+	}
+	regiment = {
+		name="1st Tessalit Artillery"
+		type=artillery
+		home=1807
+	}
+	regiment = {
+		name="2nd Agades Cavalry"
+		type=cavalry
+		home=1812
+	}
+	regiment = {
+		name="1st Abomey Artillery"
+		type=artillery
+		home=1920
+	}
+}
+

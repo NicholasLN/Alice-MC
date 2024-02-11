@@ -1,0 +1,7 @@
+owner=IRQ
+controller=REB
+add_core=IRQ
+add_core=PER
+add_core=TAB
+trade_goods = wool
+life_rating = 35

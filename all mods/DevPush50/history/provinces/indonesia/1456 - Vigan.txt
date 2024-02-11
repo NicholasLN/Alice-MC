@@ -1,0 +1,6 @@
+owner=CST
+controller=CST
+trade_goods = tobacco
+life_rating = 35
+colonial=2
+fort = 1

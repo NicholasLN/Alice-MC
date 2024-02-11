@@ -1,0 +1,5 @@
+owner=LOT
+controller=LOT
+trade_goods = fish
+life_rating = 25
+terrain = small_island

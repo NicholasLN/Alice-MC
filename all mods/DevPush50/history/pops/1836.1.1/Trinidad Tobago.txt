@@ -1,0 +1,179 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 914
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 62
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 173
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 9093
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1007
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 94
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 280
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 333
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 63
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3319
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 343
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 8
+	}
+
+}

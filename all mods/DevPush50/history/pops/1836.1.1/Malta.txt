@@ -1,0 +1,51 @@
+854 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 784
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 2520
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 364
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 73
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 23845
+	}
+
+}

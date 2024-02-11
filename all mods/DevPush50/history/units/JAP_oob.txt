@@ -1,0 +1,810 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AKH = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -85
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yoshimasa Miyoshi"
+	date="1814.12.2"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Yoshimochi Rokkaku"
+	date="1815.2.25"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Tsuguhito Asano"
+	date="1823.9.12"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="Tomohito Kono"
+	date="1832.8.23"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="Echigo Dan"
+	location=1675
+	regiment = {
+		name="1st Utsunomiya Irregulars"
+		type=irregular
+		home=1674
+	}
+	regiment = {
+		name="1st Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="1st Chiba Artillery"
+		type=artillery
+		home=1650
+	}
+	regiment = {
+		name="1st Niigata Artillery"
+		type=artillery
+		home=1645
+	}
+	regiment = {
+		name="1st Utsunomiya Artillery"
+		type=artillery
+		home=1674
+	}
+	regiment = {
+		name="1st Chiba Irregulars"
+		type=irregular
+		home=1650
+	}
+	regiment = {
+		name="2nd Nagoya Artillery"
+		type=artillery
+		home=1675
+	}
+}
+
+army = {
+	name="Mikawa Dan"
+	location=1670
+	regiment = {
+		name="1st Kanazawa Irregulars"
+		type=irregular
+		home=1646
+	}
+	regiment = {
+		name="1st Mito Irregulars"
+		type=irregular
+		home=1653
+	}
+	regiment = {
+		name="1st Yamagata Artillery"
+		type=artillery
+		home=1673
+	}
+	regiment = {
+		name="1st Nagoya Artillery"
+		type=artillery
+		home=1675
+	}
+	regiment = {
+		name="1st Hakodate Artillery"
+		type=artillery
+		home=1642
+	}
+	regiment = {
+		name="2nd Nagano Artillery"
+		type=artillery
+		home=1677
+	}
+	regiment = {
+		name="2nd Niigata Artillery"
+		type=artillery
+		home=1645
+	}
+	regiment = {
+		name="1st Nagano Irregulars"
+		type=irregular
+		home=1677
+	}
+}
+
+navy = {
+	name="Seto Inland Sea Sendan"
+	location=2840
+	ship = {
+		name="Takao"
+		type=frigate
+	}
+	ship = {
+		name="Nisshin"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Yamato Basin Suigun"
+	location=2830
+	ship = {
+		name="Aviso"
+		type=frigate
+	}
+	ship = {
+		name="Kiri"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Tsugaru Strait Sendan"
+	location=2828
+	ship = {
+		name="Fujisan"
+		type=frigate
+	}
+	ship = {
+		name="Keyaki"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Seto Inland Sea Suigun"
+	location=2843
+	ship = {
+		name="Shohei Maru"
+		type=manowar
+	}
+	ship = {
+		name="Kaiyo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Un'yo"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Kii Channel Sendan"
+	location=1639
+	ship = {
+		name="Hoo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Momo"
+		type=frigate
+	}
+	ship = {
+		name="1st Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Quanzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Morioka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Matsue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kimchaek Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ishikari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sado Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Edo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mito Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yamaguchi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Asahi Maru"
+		type=manowar
+	}
+	ship = {
+		name="Sakura"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1644
+	ship = {
+		name="1st Etorofu Clipper Transport"
+		type=clipper_transport
+	}
+}
+

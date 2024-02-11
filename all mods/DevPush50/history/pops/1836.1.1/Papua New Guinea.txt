@@ -1,0 +1,749 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4431
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 494
+	}
+
+	artisans=
+	{
+		culture = australiano
+		religion = catholic
+		size= 805
+	}
+
+	clergymen=
+	{
+		culture = australiano
+		religion = catholic
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 15852
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 486
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 486
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 23109
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 438
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1362
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 19507
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 478
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 957
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 48
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 22066
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 575
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 27334
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1603
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 22885
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1239
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2478
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 124
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 520
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 57143
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6135
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 346
+	}
+
+	soldiers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 684
+	}
+
+	artisans=
+	{
+		culture = australiano
+		religion = catholic
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = australiano
+		religion = catholic
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 21947
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2584
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 274
+	}
+
+	artisans=
+	{
+		culture = australiano
+		religion = catholic
+		size= 446
+	}
+
+	clergymen=
+	{
+		culture = australiano
+		religion = catholic
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = australiano
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = australiano
+		religion = catholic
+		size= 8781
+	}
+
+}

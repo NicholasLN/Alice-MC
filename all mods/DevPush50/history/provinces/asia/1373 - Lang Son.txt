@@ -1,0 +1,6 @@
+owner=CHC
+controller=CHC
+add_core=CHC
+trade_goods = grain
+life_rating = 34
+naval_base = 1

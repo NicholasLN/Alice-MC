@@ -1,0 +1,9 @@
+owner=X11
+controller=X11
+add_core=BUR
+add_core=IDO
+add_core=SHA
+add_core=X11
+trade_goods = grain
+life_rating = 33
+fort = 1

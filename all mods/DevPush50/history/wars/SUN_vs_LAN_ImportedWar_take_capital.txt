@@ -1,0 +1,16 @@
+name = "Sundanese-Lanfang War"
+
+1828.9.3 = {
+	add_attacker = SUN
+	add_attacker = BAU
+	add_defender = LAN
+	add_defender = BRU
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = SUN
+		receiver = LAN
+		country = LAN
+		state_province_id = 1427
+	}
+}

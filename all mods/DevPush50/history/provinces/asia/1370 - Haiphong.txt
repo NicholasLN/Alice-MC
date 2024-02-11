@@ -1,0 +1,7 @@
+owner=TOK
+controller=TOK
+add_core=IDO
+add_core=TOK
+trade_goods = cattle
+life_rating = 40
+naval_base = 2

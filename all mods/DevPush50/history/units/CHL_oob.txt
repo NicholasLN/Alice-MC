@@ -1,0 +1,874 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AKH = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 114
+	influence_value = 16
+	level = 3
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -138
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 125
+	influence_value = 18
+	level = 3
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -17
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -133
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = -1
+	level = 2
+}
+ITA = {
+	value = 50
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = -10
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -10
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -174
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 47
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = -81
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -17
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = -11
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adriano III de Hoyos"
+	date="1835.8.11"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Diederick Doria di Melfi"
+	date="1829.4.10"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Giberto de Mari"
+	date="1829.4.13"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Adriano della Torre"
+	date="1829.6.28"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Niphon da Novi"
+	date="1835.1.22"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Domoszlï¿½ di Fornari"
+	date="1835.8.10"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2348
+	ship = {
+		name="Abtao"
+		type=manowar
+	}
+	ship = {
+		name="Águila"
+		type=manowar
+	}
+	ship = {
+		name="Araucano"
+		type=manowar
+	}
+	ship = {
+		name="Chacabuco"
+		type=manowar
+	}
+	ship = {
+		name="Fortunata"
+		type=manowar
+	}
+	ship = {
+		name="Galvarino"
+		type=manowar
+	}
+	ship = {
+		name="Lautaro"
+		type=manowar
+	}
+	ship = {
+		name="Aisén"
+		type=frigate
+	}
+	ship = {
+		name="Coihaique"
+		type=clipper_transport
+	}
+	ship = {
+		name="Concepción"
+		type=clipper_transport
+	}
+	ship = {
+		name="Copiapo"
+		type=clipper_transport
+	}
+	ship = {
+		name="Del Toro"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iquique"
+		type=clipper_transport
+	}
+	ship = {
+		name="La Serena"
+		type=clipper_transport
+	}
+	ship = {
+		name="Laguna Blanca"
+		type=clipper_transport
+	}
+	ship = {
+		name="Puerto Montt"
+		type=clipper_transport
+	}
+	ship = {
+		name="Punta Arenas"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rancagua"
+		type=clipper_transport
+	}
+	ship = {
+		name="San José"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Pedro"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Rafael"
+		type=clipper_transport
+	}
+	ship = {
+		name="Santa Inés"
+		type=clipper_transport
+	}
+	ship = {
+		name="Santa María"
+		type=clipper_transport
+	}
+	ship = {
+		name="Santiago"
+		type=clipper_transport
+	}
+	ship = {
+		name="Sarmiento"
+		type=clipper_transport
+	}
+	ship = {
+		name="Talca"
+		type=clipper_transport
+	}
+	ship = {
+		name="Temuco"
+		type=clipper_transport
+	}
+	ship = {
+		name="O'Higgins"
+		type=manowar
+	}
+	ship = {
+		name="Araucania"
+		type=frigate
+	}
+	ship = {
+		name="Arica"
+		type=frigate
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2334
+	regiment = {
+		name="1st Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Tucumán Infantry"
+		type=infantry
+		home=2373
+	}
+	regiment = {
+		name="1st Viedma Infantry"
+		type=infantry
+		home=2392
+	}
+	regiment = {
+		name="1st Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Asuncion Cavalry"
+		type=cavalry
+		home=2339
+	}
+	regiment = {
+		name="1st Telén Artillery"
+		type=artillery
+		home=2393
+	}
+	regiment = {
+		name="4th Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2353
+	regiment = {
+		name="2nd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+	regiment = {
+		name="1st Santiago del Estero Cavalry"
+		type=cavalry
+		home=2376
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
+		home=2348
+	}
+	regiment = {
+		name="2nd Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="5th Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2327
+	regiment = {
+		name="1st Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="1st Trenque Lauquen Infantry"
+		type=infantry
+		home=2353
+	}
+	regiment = {
+		name="2nd Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+	regiment = {
+		name="1st Santa Rita Infantry"
+		type=infantry
+		home=2386
+	}
+	regiment = {
+		name="1st Santiago Cavalry"
+		type=cavalry
+		home=2324
+	}
+	regiment = {
+		name="1st Santo Tomás Artillery"
+		type=artillery
+		home=2358
+	}
+	regiment = {
+		name="1st Mar del Plata Artillery"
+		type=artillery
+		home=2352
+	}
+	regiment = {
+		name="1st Paraná Artillery"
+		type=artillery
+		home=2360
+	}
+	regiment = {
+		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="2nd Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="3rd Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="3rd Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2338
+	regiment = {
+		name="1st Paysandú Cavalry"
+		type=cavalry
+		home=2345
+	}
+	regiment = {
+		name="2nd Asuncion Cavalry"
+		type=cavalry
+		home=2339
+	}
+}
+

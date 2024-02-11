@@ -1,0 +1,13 @@
+owner=SCA
+controller=SCA
+add_core=DNL
+add_core=SCA
+trade_goods = iron
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

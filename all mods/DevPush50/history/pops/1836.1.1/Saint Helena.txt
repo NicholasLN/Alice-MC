@@ -1,0 +1,237 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 371
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 349
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = protestant
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = protestant
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = protestant
+		size= 21
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = protestant
+		size= 6
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = protestant
+		size= 6
+	}
+
+}

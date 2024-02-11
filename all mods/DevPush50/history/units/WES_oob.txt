@@ -1,0 +1,868 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -10
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = -40
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -52
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 8
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -212
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+LOU = {
+	value = 43
+	level = 2
+}
+LTN = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 37
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -20
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -2
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -88
+	level = 2
+}
+X04 = {
+	value = -43
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -12
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 6
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Joseph Oldenburg"
+	date="1807.3.23"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Adolf Wernigerode"
+	date="1817.9.10"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Matthias Hamelm"
+	date="1825.2.22"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Raphael Wernigerode"
+	date="1829.12.18"
+	type=sea
+	personality="disciplined"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=540
+	ship = {
+		name="Lorelai"
+		type=manowar
+	}
+	ship = {
+		name="Rhinelander"
+		type=manowar
+	}
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Deutschland"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Nord-Amerika"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armee von Dortmund"
+	location=541
+	regiment = {
+		name="1st Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="1st Dortmund Cavalry"
+		type=cavalry
+		home=580
+	}
+	regiment = {
+		name="1st Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="1st Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="2nd Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="3rd Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="4th Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="3rd Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="2nd Dortmund Cavalry"
+		type=cavalry
+		home=580
+	}
+	regiment = {
+		name="1st Hanover Artillery"
+		type=artillery
+		home=534
+	}
+}
+
+army = {
+	name="Free Swiss Guard"
+	location=531
+	regiment = {
+		name="1st Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="2nd Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2721
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+	ship = {
+		name="Albatross"
+		type=frigate
+	}
+	ship = {
+		name="Alexandrine"
+		type=frigate
+	}
+	ship = {
+		name="Amazone"
+		type=frigate
+	}
+	ship = {
+		name="Arcona"
+		type=frigate
+	}
+	ship = {
+		name="Ariadne"
+		type=frigate
+	}
+}
+
+army = {
+	name="Frisian Free Company"
+	location=531
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="2nd Stade Infantry"
+		type=infantry
+		home=531
+	}
+}
+
+army = {
+	name="Free Company"
+	location=531
+	regiment = {
+		name="1st Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="2nd Kiel Infantry"
+		type=infantry
+		home=369
+	}
+}
+
+army = {
+	name="Armee von Bremen"
+	location=531
+	regiment = {
+		name="2nd Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="1st Nienburg Cavalry"
+		type=cavalry
+		home=535
+	}
+	regiment = {
+		name="2nd Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="3rd Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="1st Bremen Cavalry"
+		type=cavalry
+		home=539
+	}
+	regiment = {
+		name="1st Lingen Artillery"
+		type=artillery
+		home=542
+	}
+}
+
+army = {
+	name="Wandering Knights of Rhodes"
+	location=531
+	regiment = {
+		name="1st Magdeburg Infantry"
+		type=infantry
+		home=553
+	}
+	regiment = {
+		name="2nd Magdeburg Infantry"
+		type=infantry
+		home=553
+	}
+}
+
+army = {
+	name="Armee von Hoya"
+	location=539
+	regiment = {
+		name="1st Dessau Cavalry"
+		type=cavalry
+		home=555
+	}
+	regiment = {
+		name="5th Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="6th Oldenburg Artillery"
+		type=artillery
+		home=540
+	}
+	regiment = {
+		name="2nd Dessau Cavalry"
+		type=cavalry
+		home=555
+	}
+}
+
+army = {
+	name="Doppelsöldner"
+	location=539
+	regiment = {
+		name="1st Cloppenburg Infantry"
+		type=infantry
+		home=541
+	}
+	regiment = {
+		name="4th Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=530
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="New York"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pamir"
+		type=clipper_transport
+	}
+}
+

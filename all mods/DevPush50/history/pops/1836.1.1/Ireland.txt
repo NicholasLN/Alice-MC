@@ -1,0 +1,1641 @@
+254 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 2761
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 44583
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 542
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 2404
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 6413
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4292
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 14859
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 690
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 212
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 223
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 892
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 55475
+	}
+
+}
+255 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 2806
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 501
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 46519
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 454
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 663
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 6610
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4214
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4174
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 678
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 209
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 219
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1315
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 64434
+	}
+
+}
+256 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 1402
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 876
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 22638
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1221
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 3257
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 2179
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 7545
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 350
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 108
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 453
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 28169
+	}
+
+}
+257 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 2566
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 458
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 42580
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 495
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 635
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 7409
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 4016
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 3962
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 644
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 198
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 832
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 61863
+	}
+
+}
+258 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 3300
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1179
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 53888
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4335
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4275
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 695
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 214
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 224
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 898
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 66768
+	}
+
+}
+259 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 4547
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1624
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 81
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 74251
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 6049
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 5944
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 966
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 297
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 312
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1248
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 93199
+	}
+
+}
+260 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 1943
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 972
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 93816
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size= 908
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size= 1880
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size= 306
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 94
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size= 41779
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1541
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 5934
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 964
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 297
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1246
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 66869
+	}
+
+}
+261 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 4248
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 759
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 70484
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 654
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 992
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 9551
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 6328
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 6270
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1019
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 376
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 329
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1317
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 97353
+	}
+
+}
+262 = {
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 3369
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 602
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 55848
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size= 1631
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size= 1184
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 59
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = protestant
+		size= 25619
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 2605
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 3647
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 593
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 182
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1149
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 38156
+	}
+
+}
+263 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 8701
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1892
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 95
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 82985
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 11143
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 6736
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1095
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 337
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 488
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1650
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 99666
+	}
+
+}
+264 = {
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1483
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 23607
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4094
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 4036
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 655
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 242
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 212
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1695
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 62171
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = catholic
+		size= 1629
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = catholic
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = irish
+		religion = catholic
+		size= 26965
+	}
+
+}
+265 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 1473
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 263
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 24383
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 1134
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 668
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = catholic
+		size= 17989
+	}
+
+	soldiers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 3386
+	}
+
+	artisans=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 3349
+	}
+
+	clergymen=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 544
+	}
+
+	bureaucrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 201
+	}
+
+	officers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 176
+	}
+
+	aristocrats=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 1407
+	}
+
+	farmers=
+	{
+		culture = elsinorian
+		religion = protestant
+		size= 51400
+	}
+
+}

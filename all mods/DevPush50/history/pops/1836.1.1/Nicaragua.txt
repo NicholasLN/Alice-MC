@@ -1,0 +1,421 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5655
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 36271
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4227
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 305
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 840
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 1855
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7260
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 845
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 168
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 371
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 12
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1539
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 8798
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1718
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 103
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = mayan
+		size= 481
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 15
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 65
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 264
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 259
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 486
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1687
+	}
+
+}

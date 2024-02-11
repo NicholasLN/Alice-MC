@@ -1,0 +1,551 @@
+1901 = {
+	slaves=
+	{
+		culture = dyula
+		religion = catholic
+		size= 4738
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 916
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = catholic
+		size= 1144
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = catholic
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = catholic
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = catholic
+		size= 9326
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 27557
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 5324
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 14455
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 775
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 145
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 165
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 1735
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 44917
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 17861
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 4612
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 3294
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 618
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 82
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 692
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 55070
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 14948
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 3795
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 9487
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 508
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 68
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 1138
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = west_african_pagan_reformed
+		size= 37711
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 5455
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 4691
+	}
+
+	clergymen=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 74
+	}
+
+	officers=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 657
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = west_african_pagan_reformed
+		size= 18193
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 1612
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 554
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 1386
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 6042
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 5058
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 2017
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 1440
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 50
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = west_african_pagan_reformed
+		size= 26815
+	}
+
+}
+1906 = {
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 2100
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 3300
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 550
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 15750
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = animist
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = animist
+		size= 36450
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = animist
+		size= 700
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = animist
+		size= 12750
+	}
+
+	slaves=
+	{
+		culture = senufo
+		religion = animist
+		size= 12000
+	}
+
+}

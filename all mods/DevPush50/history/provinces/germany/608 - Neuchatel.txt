@@ -1,0 +1,7 @@
+owner=X13
+controller=X13
+add_core=FRA
+add_core=X13
+trade_goods = coal
+life_rating = 32
+fort = 1

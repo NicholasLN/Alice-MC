@@ -1,0 +1,8 @@
+owner=ZUN
+controller=ZUN
+add_core=CHI
+add_core=MCK
+add_core=ZUN
+trade_goods = coal
+life_rating = 32
+naval_base = 2

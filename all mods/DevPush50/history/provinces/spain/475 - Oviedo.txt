@@ -1,0 +1,19 @@
+owner=CST
+controller=CST
+add_core=CST
+add_core=SPA
+trade_goods = coal
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = regular_clothes_factory
+	upgrade = yes
+}

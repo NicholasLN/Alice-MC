@@ -1,0 +1,8 @@
+owner=KHA
+controller=KHA
+add_core=CHI
+add_core=KHA
+add_core=YUA
+trade_goods = grain
+life_rating = 32
+fort = 1

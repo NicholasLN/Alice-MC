@@ -1,0 +1,14 @@
+owner=MLI
+controller=MLI
+add_core=MLI
+add_core=WOL
+trade_goods = fruit
+life_rating = 35
+terrain = semidesert
+naval_base = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

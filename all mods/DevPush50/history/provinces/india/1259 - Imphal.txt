@@ -1,0 +1,9 @@
+owner=ORI
+controller=ORI
+add_core=ASM
+add_core=HND
+add_core=ORI
+add_core=X11
+trade_goods = cattle
+life_rating = 32
+fort = 1

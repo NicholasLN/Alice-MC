@@ -1,0 +1,228 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 375
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 58
+	}
+
+	slaves=
+	{
+		culture = tupi
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 86
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 2931
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 567
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 68
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = animist
+		size= 233
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = animist
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = animist
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 468
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 96
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = animist
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 1
+	}
+
+}

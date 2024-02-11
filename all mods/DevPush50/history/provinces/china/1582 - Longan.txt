@@ -1,0 +1,8 @@
+owner=UTS
+controller=CSH
+add_core=CSH
+add_core=UTS
+add_core=YUA
+trade_goods = cattle
+life_rating = 32
+fort = 1

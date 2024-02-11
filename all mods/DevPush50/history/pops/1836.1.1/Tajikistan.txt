@@ -1,0 +1,167 @@
+1201 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 1432
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = hindu
+		size= 7162
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = hindu
+		size= 333
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 138
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 645
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 41338
+	}
+
+}
+1207 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 5971
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 1003
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = hindu
+		size= 1433
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = hindu
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 68
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 26741
+	}
+
+}
+1208 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 4955
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 1042
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 5210
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 56
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 625
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 25007
+	}
+
+}

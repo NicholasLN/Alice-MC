@@ -1,0 +1,8 @@
+owner=TOK
+controller=X02
+add_core=ANN
+add_core=IDO
+add_core=TOK
+trade_goods = fruit
+life_rating = 32
+fort = 1

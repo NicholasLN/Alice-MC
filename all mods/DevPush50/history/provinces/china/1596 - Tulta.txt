@@ -1,0 +1,6 @@
+owner=ZUN
+controller=ZUN
+add_core=XIN
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32

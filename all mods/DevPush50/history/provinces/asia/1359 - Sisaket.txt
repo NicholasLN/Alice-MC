@@ -1,0 +1,8 @@
+owner=X02
+controller=X02
+add_core=IDO
+add_core=LUA
+add_core=X02
+trade_goods = cattle
+life_rating = 35
+fort = 1

@@ -1,0 +1,8 @@
+owner=IRQ
+controller=IRQ
+add_core=ARA
+add_core=IRQ
+trade_goods = fish
+life_rating = 31
+terrain = semidesert
+fort = 1

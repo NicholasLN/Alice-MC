@@ -1,0 +1,9 @@
+owner=IRQ
+controller=IRQ
+add_core=ALH
+add_core=ARA
+add_core=IRQ
+trade_goods = fruit
+life_rating = 34
+terrain = semidesert
+naval_base = 2

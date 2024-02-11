@@ -1,0 +1,587 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 583
+	}
+
+	craftsmen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 638
+	}
+
+	clerks=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 18
+	}
+
+	capitalists=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	craftsmen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1214
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	clerks=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 55
+	}
+
+	capitalists=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = protestant
+		size= 120
+	}
+
+	soldiers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 5
+	}
+
+	craftsmen=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 5735
+	}
+
+	artisans=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 4
+	}
+
+	clerks=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 420
+	}
+
+	bureaucrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 10
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1478
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 99
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 22505
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 665
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1046
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 329
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 21
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 1870
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 24
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2035
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 195
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2586
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 204
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 4438
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 269
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = protestant
+		size= 20182
+	}
+
+	soldiers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 3704
+	}
+
+	clergymen=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 47
+	}
+
+	officers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 444
+	}
+
+	farmers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 198
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 195
+	}
+
+	soldiers=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nowyswiat
+		religion = catholic
+		size= 82
+	}
+
+}

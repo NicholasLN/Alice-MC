@@ -1,0 +1,176 @@
+vassal=
+{
+	first="FRA"
+	second="MEX"
+	start_date="1565.5.17"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="VRM"
+	start_date="1624.4.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="LOU"
+	start_date="1651.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="DES"
+	start_date="1731.6.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X15"
+	start_date="1795.8.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X03"
+	start_date="1798.9.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="X04"
+	start_date="1825.12.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ITA"
+	second="GRE"
+	start_date="1774.3.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCA"
+	second="CAN"
+	start_date="1563.9.12"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="TOK"
+	second="X02"
+	start_date="1759.1.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="CXI"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="NNG"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="CWU"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="SHU"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="MIN"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="LNG"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="JIN"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="CSH"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="CHC"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="YUE"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="KHA"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="YUA"
+	second="KRC"
+	start_date="1836.1.1"
+	end_date="1936.1.1"
+}
+

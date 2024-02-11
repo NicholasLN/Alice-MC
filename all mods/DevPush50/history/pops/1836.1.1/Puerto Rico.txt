@@ -1,0 +1,240 @@
+2222 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2610
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2791
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 23263
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 905
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1334
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2507
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 20626
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 4222
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 4073
+	}
+
+	slaves=
+	{
+		culture = afro_italian
+		religion = catholic
+		size= 13070
+	}
+
+	soldiers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 779
+	}
+
+	artisans=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 5388
+	}
+
+	clergymen=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 778
+	}
+
+	bureaucrats=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 132
+	}
+
+	officers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 670
+	}
+
+	farmers=
+	{
+		culture = trattoloyan
+		religion = catholic
+		size= 6884
+	}
+
+}

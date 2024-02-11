@@ -1,0 +1,9 @@
+owner=TOK
+controller=TOK
+add_core=ANN
+add_core=CHA
+add_core=IDO
+add_core=TOK
+trade_goods = fish
+life_rating = 35
+fort = 1

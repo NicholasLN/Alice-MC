@@ -1,0 +1,7 @@
+owner=BAV
+controller=BAV
+add_core=BAV
+add_core=SWI
+trade_goods = wool
+life_rating = 32
+fort = 1

@@ -1,0 +1,1319 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -18
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 4
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 50
+	level = 3
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -59
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KUB = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 43
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUA = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -13
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MOR = {
+	value = -92
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 50
+	level = 3
+}
+QTO = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 46
+	level = 2
+}
+USA = {
+	value = 43
+	level = 2
+}
+VNZ = {
+	value = 34
+	level = 2
+}
+VRM = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+WES = {
+	value = -161
+	level = 2
+}
+WSI = {
+	value = 143
+	influence_value = 23
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+YEM = {
+	value = 22
+	level = 2
+}
+YKA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -2
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Henrik Povlsen"
+	date="1802.6.21"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Erik Alkmaar"
+	date="1808.3.16"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Inge Cronstedt"
+	date="1812.7.17"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Tomas Gyldenstjerne"
+	date="1813.3.24"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Alfred Ahlefeldt"
+	date="1825.8.11"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Birger Gyldenløve"
+	date="1825.9.26"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Folke Moltke"
+	date="1827.2.16"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Free Swiss Guard"
+	location=658
+	regiment = {
+		name="1st Newcastle-upon-Tyne Infantry"
+		type=infantry
+		home=280
+	}
+	regiment = {
+		name="2nd Newcastle-upon-Tyne Infantry"
+		type=infantry
+		home=280
+	}
+	regiment = {
+		name="3rd Newcastle-upon-Tyne Infantry"
+		type=infantry
+		home=280
+	}
+}
+
+army = {
+	name="Scottish Guard"
+	location=308
+	regiment = {
+		name="1st Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="2nd Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=299
+	regiment = {
+		name="1st Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="1st Glasgow Infantry"
+		type=infantry
+		home=271
+	}
+	regiment = {
+		name="1st Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="1st Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+	regiment = {
+		name="1st London Artillery"
+		type=artillery
+		home=300
+	}
+	regiment = {
+		name="1st Holyhead Artillery"
+		type=artillery
+		home=276
+	}
+	regiment = {
+		name="1st Liverpool Artillery"
+		type=artillery
+		home=277
+	}
+	regiment = {
+		name="1st Ipswich Artillery"
+		type=artillery
+		home=292
+	}
+	regiment = {
+		name="2nd Ipswich Artillery"
+		type=artillery
+		home=292
+	}
+}
+
+army = {
+	name="Mohawk Free Warriors"
+	location=13
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="2nd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="3rd London Infantry"
+		type=infantry
+		home=300
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2050
+	regiment = {
+		name="1st Londonderry Infantry"
+		type=infantry
+		home=255
+	}
+	regiment = {
+		name="1st Edinburgh Infantry"
+		type=infantry
+		home=269
+	}
+	regiment = {
+		name="1st Chester Artillery"
+		type=artillery
+		home=285
+	}
+	regiment = {
+		name="1st Edinburgh Artillery"
+		type=artillery
+		home=269
+	}
+	regiment = {
+		name="1st Newcastle-upon-Tyne Artillery"
+		type=artillery
+		home=280
+	}
+}
+
+navy = {
+	name="14th Fleet"
+	location=2049
+	ship = {
+		name="Carl XIII"
+		type=manowar
+	}
+	ship = {
+		name="Karl XIV Johan"
+		type=manowar
+	}
+	ship = {
+		name="Prins Oscar"
+		type=manowar
+	}
+	ship = {
+		name="Gustav den Store"
+		type=manowar
+	}
+	ship = {
+		name="Stockholm"
+		type=manowar
+	}
+	ship = {
+		name="Försiktigheten"
+		type=manowar
+	}
+	ship = {
+		name="Tapperheten"
+		type=manowar
+	}
+	ship = {
+		name="Kung Adolph Fredric"
+		type=manowar
+	}
+	ship = {
+		name="Henrik"
+		type=manowar
+	}
+	ship = {
+		name="Tomas"
+		type=manowar
+	}
+	ship = {
+		name="Freia"
+		type=manowar
+	}
+	ship = {
+		name="Desideira"
+		type=manowar
+	}
+	ship = {
+		name="St Olaf"
+		type=manowar
+	}
+	ship = {
+		name="Kong Sverre"
+		type=manowar
+	}
+	ship = {
+		name="Ellida"
+		type=manowar
+	}
+	ship = {
+		name="Nordssthernen"
+		type=manowar
+	}
+	ship = {
+		name="Nornen"
+		type=manowar
+	}
+	ship = {
+		name="Nidaros"
+		type=manowar
+	}
+	ship = {
+		name="Ørnen"
+		type=manowar
+	}
+	ship = {
+		name="Prins Christian Frederik"
+		type=manowar
+	}
+	ship = {
+		name="Skjold"
+		type=manowar
+	}
+	ship = {
+		name="Absalon"
+		type=manowar
+	}
+	ship = {
+		name="Packa"
+		type=frigate
+	}
+	ship = {
+		name="Svarta Örn"
+		type=frigate
+	}
+	ship = {
+		name="3rd Santo Domingo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lincoln Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jamaica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Carlisle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jamaica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Holyhead Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dublin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Londonderry Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Carlisle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barranquilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Jarramas"
+		type=frigate
+	}
+	ship = {
+		name="Vainqueur"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="Illerim"
+		type=frigate
+	}
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2631
+	regiment = {
+		name="4th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="5th London Infantry"
+		type=infantry
+		home=300
+	}
+}
+
+army = {
+	name="1st Army"
+	location=334
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="1st Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="2nd Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="1st Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="2nd Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="3rd Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="1st London Cavalry"
+		type=cavalry
+		home=300
+	}
+	regiment = {
+		name="1st Östersund Artillery"
+		type=artillery
+		home=319
+	}
+	regiment = {
+		name="1st Stockholm Artillery"
+		type=artillery
+		home=322
+	}
+	regiment = {
+		name="1st Carlisle Artillery"
+		type=artillery
+		home=279
+	}
+	regiment = {
+		name="1st Kalmar Artillery"
+		type=artillery
+		home=332
+	}
+	regiment = {
+		name="1st Falun Artillery"
+		type=artillery
+		home=323
+	}
+	regiment = {
+		name="1st Luleå Artillery"
+		type=artillery
+		home=321
+	}
+	regiment = {
+		name="2nd Falun Artillery"
+		type=artillery
+		home=323
+	}
+	regiment = {
+		name="2nd London Cavalry"
+		type=cavalry
+		home=300
+	}
+	regiment = {
+		name="3rd London Cavalry"
+		type=cavalry
+		home=300
+	}
+	regiment = {
+		name="4th London Cavalry"
+		type=cavalry
+		home=300
+	}
+	regiment = {
+		name="5th London Cavalry"
+		type=cavalry
+		home=300
+	}
+	regiment = {
+		name="3rd Falun Artillery"
+		type=artillery
+		home=323
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=104
+	regiment = {
+		name="6th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="7th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="8th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="2nd Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="9th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="2nd Coventry Infantry"
+		type=infantry
+		home=287
+	}
+}
+
+army = {
+	name="Finnish Company"
+	location=307
+	regiment = {
+		name="1st Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="2nd Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="3rd Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="4th Turku Infantry"
+		type=infantry
+		home=345
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=2217
+	regiment = {
+		name="3rd Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="10th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="2nd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+}
+
+army = {
+	name="Gascon Musket Company"
+	location=339
+	regiment = {
+		name="1st Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="2nd Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="5th Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+}
+
+army = {
+	name="Flemish Company"
+	location=339
+	regiment = {
+		name="3rd Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="4th Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="1st Aarhus Artillery"
+		type=artillery
+		home=366
+	}
+	regiment = {
+		name="6th Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
+		name="2nd Aarhus Artillery"
+		type=artillery
+		home=366
+	}
+}
+
+army = {
+	name="Forlorn Hope"
+	location=339
+	regiment = {
+		name="1st Ribe Infantry"
+		type=infantry
+		home=368
+	}
+	regiment = {
+		name="2nd Ribe Infantry"
+		type=infantry
+		home=368
+	}
+	regiment = {
+		name="3rd Ribe Infantry"
+		type=infantry
+		home=368
+	}
+}
+
+army = {
+	name="Misquito Coast Company"
+	location=2209
+	regiment = {
+		name="1st Panama City Infantry"
+		type=infantry
+		home=2204
+	}
+	regiment = {
+		name="2nd Glasgow Infantry"
+		type=infantry
+		home=271
+	}
+	regiment = {
+		name="4th Dublin Infantry"
+		type=infantry
+		home=263
+	}
+}
+
+army = {
+	name="Muscogee Mercenaries"
+	location=2219
+	regiment = {
+		name="11th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="3rd Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="1st Limerick Infantry"
+		type=infantry
+		home=261
+	}
+}
+
+army = {
+	name="Yucatan Company"
+	location=2216
+	regiment = {
+		name="3rd Glasgow Infantry"
+		type=infantry
+		home=271
+	}
+	regiment = {
+		name="1st Sligo Infantry"
+		type=infantry
+		home=259
+	}
+	regiment = {
+		name="2nd Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="2nd Limerick Infantry"
+		type=infantry
+		home=261
+	}
+}
+
+army = {
+	name="Silver Company"
+	location=1723
+	regiment = {
+		name="2nd Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="1st Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="2nd Sligo Infantry"
+		type=infantry
+		home=259
+	}
+}
+
+army = {
+	name="Free Company of Volunteers"
+	location=2211
+	regiment = {
+		name="5th Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="1st Leicester Infantry"
+		type=infantry
+		home=289
+	}
+	regiment = {
+		name="1st Cardiff Infantry"
+		type=infantry
+		home=273
+	}
+}
+

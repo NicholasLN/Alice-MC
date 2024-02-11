@@ -1,0 +1,51 @@
+2131 = {
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = protestant
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = protestant
+		size= 1
+	}
+
+}

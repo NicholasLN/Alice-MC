@@ -1,0 +1,855 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -10
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -11
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = -12
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -10
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = -10
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -9
+	level = 2
+}
+JAP = {
+	value = -93
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 119
+	influence_value = 17
+	level = 4
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -12
+	level = 2
+}
+LTN = {
+	value = 50
+	level = 3
+}
+LUA = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -12
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -10
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -11
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -4
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = -12
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -11
+	level = 2
+}
+X04 = {
+	value = -12
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = -12
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 176
+	military_access = yes
+	influence_value = 31
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Oori Sharnuud"
+	date="1819.3.14"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Molon Khukh-nuur"
+	date="1828.5.4"
+	type=land
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Lha-bzang Oimuud"
+	date="1828.5.5"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Sengge Uuld"
+	date="1832.5.31"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Stanovoy Tumen"
+	location=1083
+	regiment = {
+		name="1st Kuznetsk Irregulars"
+		type=irregular
+		home=2698
+	}
+	regiment = {
+		name="1st Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="1st Uriankhai Irregulars"
+		type=irregular
+		home=1469
+	}
+	regiment = {
+		name="1st Urumqi Cavalry"
+		type=cavalry
+		home=1600
+	}
+	regiment = {
+		name="1st Bayan Tumen Cavalry"
+		type=cavalry
+		home=1467
+	}
+	regiment = {
+		name="1st Abakan Artillery"
+		type=artillery
+		home=2674
+	}
+	regiment = {
+		name="1st Qaratal Artillery"
+		type=artillery
+		home=1188
+	}
+	regiment = {
+		name="1st Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+	regiment = {
+		name="4th Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="3rd Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2641
+	ship = {
+		name="2nd Chumikan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Boli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chumikan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chumikan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chumikan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Talaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Boli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chumikan Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Zakhchin Tumen"
+	location=1555
+	regiment = {
+		name="2nd Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="1st Khatgal Cavalry"
+		type=cavalry
+		home=2608
+	}
+	regiment = {
+		name="1st Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="2nd Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="1st Bayan Tumen Artillery"
+		type=artillery
+		home=1467
+	}
+	regiment = {
+		name="3rd Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="1st Bulgan Cavalry"
+		type=cavalry
+		home=2678
+	}
+	regiment = {
+		name="2nd Bayan Tumen Artillery"
+		type=artillery
+		home=1467
+	}
+}
+
+army = {
+	name="Argyn Tumen"
+	location=1187
+	regiment = {
+		name="1st Urumqi Irregulars"
+		type=irregular
+		home=1600
+	}
+	regiment = {
+		name="1st Semipalatinsk Cavalry"
+		type=cavalry
+		home=1187
+	}
+	regiment = {
+		name="1st Ili Artillery"
+		type=artillery
+		home=1595
+	}
+	regiment = {
+		name="2nd Ili Artillery"
+		type=artillery
+		home=1595
+	}
+	regiment = {
+		name="5th Khovd Irregulars"
+		type=irregular
+		home=2679
+	}
+	regiment = {
+		name="1st Hailanpao Cavalry"
+		type=cavalry
+		home=1085
+	}
+	regiment = {
+		name="2nd Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+}
+
+army = {
+	name="Baraba Tumen"
+	location=2207
+	regiment = {
+		name="1st Urga Irregulars"
+		type=irregular
+		home=1465
+	}
+	regiment = {
+		name="1st Chita Cavalry"
+		type=cavalry
+		home=1078
+	}
+	regiment = {
+		name="2nd Qaratal Artillery"
+		type=artillery
+		home=1188
+	}
+	regiment = {
+		name="3rd Ili Artillery"
+		type=artillery
+		home=1595
+	}
+	regiment = {
+		name="2nd Urumqi Irregulars"
+		type=irregular
+		home=1600
+	}
+	regiment = {
+		name="1st Kokshetau Cavalry"
+		type=cavalry
+		home=1184
+	}
+	regiment = {
+		name="3rd Qaratal Artillery"
+		type=artillery
+		home=1188
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2828
+	ship = {
+		name="2nd Boli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Boli Frigate"
+		type=frigate
+	}
+}
+

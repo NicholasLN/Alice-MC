@@ -1,0 +1,941 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AKH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = -19
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -253
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -80
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 20
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 40
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -47
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 4
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = -1
+	level = 2
+}
+VRM = {
+	value = -28
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Saul Paleologi Montferrato"
+	date="1811.5.8"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Diederick Invrea"
+	date="1813.1.25"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Filippo de Franchi"
+	date="1825.3.15"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sigurðr Cybo"
+	date="1826.4.16"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Cataldo Durazzo"
+	date="1826.4.22"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=2303
+	regiment = {
+		name="1st Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="2nd Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Cajamarca Infantry"
+		type=infantry
+		home=2290
+	}
+	regiment = {
+		name="2nd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2237
+	ship = {
+		name="Arequipeño"
+		type=manowar
+	}
+	ship = {
+		name="Balcarce"
+		type=manowar
+	}
+	ship = {
+		name="Belgrano"
+		type=manowar
+	}
+	ship = {
+		name="Coronel Spano"
+		type=manowar
+	}
+	ship = {
+		name="Cruz"
+		type=manowar
+	}
+	ship = {
+		name="Limeña"
+		type=manowar
+	}
+	ship = {
+		name="Peruviana"
+		type=manowar
+	}
+	ship = {
+		name="Protector"
+		type=manowar
+	}
+	ship = {
+		name="Sacramento"
+		type=manowar
+	}
+	ship = {
+		name="Caupolican"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chalaco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chimbote"
+		type=clipper_transport
+	}
+	ship = {
+		name="Colón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Constitución"
+		type=clipper_transport
+	}
+	ship = {
+		name="Contraalmirante Haza"
+		type=clipper_transport
+	}
+	ship = {
+		name="General Lerzundi"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guardian Ríos"
+		type=clipper_transport
+	}
+	ship = {
+		name="Independencia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iquitos"
+		type=clipper_transport
+	}
+	ship = {
+		name="Oroya"
+		type=clipper_transport
+	}
+	ship = {
+		name="Perú"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pucallpa"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Martín"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2238
+	regiment = {
+		name="1st Calama Infantry"
+		type=infantry
+		home=2309
+	}
+	regiment = {
+		name="3rd Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st San Ignacio Cavalry"
+		type=cavalry
+		home=2317
+	}
+	regiment = {
+		name="1st Huancavelica Artillery"
+		type=artillery
+		home=2296
+	}
+	regiment = {
+		name="1st San José del Guaviare Artillery"
+		type=artillery
+		home=2260
+	}
+	regiment = {
+		name="1st Obando Artillery"
+		type=artillery
+		home=2261
+	}
+	regiment = {
+		name="1st Chuquisaca Cavalry"
+		type=cavalry
+		home=2313
+	}
+	regiment = {
+		name="1st Arequipa Cavalry"
+		type=cavalry
+		home=2304
+	}
+	regiment = {
+		name="3rd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2998
+	ship = {
+		name="Amazonas"
+		type=frigate
+	}
+	ship = {
+		name="Apurimac"
+		type=frigate
+	}
+	ship = {
+		name="Mercedes"
+		type=frigate
+	}
+	ship = {
+		name="Monteagudo"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2421
+	regiment = {
+		name="1st Arica Infantry"
+		type=infantry
+		home=2308
+	}
+	regiment = {
+		name="1st Vila Bela Infantry"
+		type=infantry
+		home=2417
+	}
+	regiment = {
+		name="1st Huancavelica Infantry"
+		type=infantry
+		home=2296
+	}
+	regiment = {
+		name="1st Cochabamba Cavalry"
+		type=cavalry
+		home=2311
+	}
+	regiment = {
+		name="1st Ica Artillery"
+		type=artillery
+		home=2297
+	}
+	regiment = {
+		name="1st Forte do Príncipe Artillery"
+		type=artillery
+		home=2550
+	}
+	regiment = {
+		name="1st El Encanto Artillery"
+		type=artillery
+		home=2263
+	}
+	regiment = {
+		name="1st Cusco Cavalry"
+		type=cavalry
+		home=2302
+	}
+	regiment = {
+		name="2nd Cochabamba Cavalry"
+		type=cavalry
+		home=2311
+	}
+	regiment = {
+		name="1st Lima Artillery"
+		type=artillery
+		home=2295
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2309
+	regiment = {
+		name="4th Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+	regiment = {
+		name="1st Ica Infantry"
+		type=infantry
+		home=2297
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+	regiment = {
+		name="2nd Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="5th Cusco Infantry"
+		type=infantry
+		home=2302
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2999
+	ship = {
+		name="Callao"
+		type=frigate
+	}
+	ship = {
+		name="Meteoro"
+		type=frigate
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2257
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="1st Santa Ana Infantry"
+		type=infantry
+		home=2319
+	}
+	regiment = {
+		name="1st Ayacucho Artillery"
+		type=artillery
+		home=2299
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+	regiment = {
+		name="1st Loja Infantry"
+		type=infantry
+		home=2282
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2290
+	regiment = {
+		name="1st Santa Ana Artillery"
+		type=artillery
+		home=2319
+	}
+	regiment = {
+		name="1st Potosí Artillery"
+		type=artillery
+		home=2314
+	}
+}
+

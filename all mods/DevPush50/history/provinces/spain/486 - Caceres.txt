@@ -1,0 +1,7 @@
+owner=ATR
+controller=ATR
+add_core=ATR
+add_core=GEN
+add_core=SPA
+trade_goods = fruit
+life_rating = 35

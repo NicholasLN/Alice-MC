@@ -1,0 +1,6 @@
+owner=ZUN
+controller=ZUN
+add_core=YAK
+add_core=ZUN
+trade_goods = timber
+life_rating = 35

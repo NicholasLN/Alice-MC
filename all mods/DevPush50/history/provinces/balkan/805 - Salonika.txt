@@ -1,0 +1,8 @@
+owner=GRE
+controller=GRE
+add_core=GRE
+add_core=KHA
+add_core=MGL
+trade_goods = cotton
+life_rating = 35
+fort = 1

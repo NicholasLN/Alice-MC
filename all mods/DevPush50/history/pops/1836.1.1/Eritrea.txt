@@ -1,0 +1,477 @@
+1848 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 204
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 479
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2070
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 5573
+	}
+
+	slaves=
+	{
+		culture = tigray
+		religion = catholic
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = catholic
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 674
+	}
+
+	slaves=
+	{
+		culture = beja
+		religion = catholic
+		size= 278
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = catholic
+		size= 653
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = catholic
+		size= 816
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = catholic
+		size= 9748
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 1445
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 866
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 4266
+	}
+
+}
+1850 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 402
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 1813
+	}
+
+	slaves=
+	{
+		culture = tigray
+		religion = catholic
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = catholic
+		size= 223
+	}
+
+	slaves=
+	{
+		culture = beja
+		religion = catholic
+		size= 549
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = catholic
+		size= 246
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = catholic
+		size= 307
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = catholic
+		size= 3223
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 1525
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 8908
+	}
+
+}

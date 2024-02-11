@@ -1,0 +1,9 @@
+owner=GEO
+controller=GEO
+add_core=GEO
+add_core=IRQ
+add_core=KHA
+add_core=MGL
+trade_goods = silk
+life_rating = 35
+fort = 1

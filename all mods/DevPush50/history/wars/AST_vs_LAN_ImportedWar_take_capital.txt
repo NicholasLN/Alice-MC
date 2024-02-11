@@ -1,0 +1,14 @@
+name = "Australian-Lanfang War"
+
+1833.8.6 = {
+	add_attacker = AST
+	add_defender = LAN
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = AST
+		receiver = LAN
+		country = LAN
+		state_province_id = 1427
+	}
+}

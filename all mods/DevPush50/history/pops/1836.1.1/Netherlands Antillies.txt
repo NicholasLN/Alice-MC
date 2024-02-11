@@ -1,0 +1,538 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 39
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 106
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 228
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = protestant
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 503
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 568
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1144
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 21
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 27
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 44
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = protestant
+		size= 94
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 214
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 4
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 32
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = protestant
+		size= 106
+	}
+
+	soldiers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = nowyswiat
+		religion = protestant
+		size= 236
+	}
+
+}

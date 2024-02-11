@@ -1,0 +1,7 @@
+owner=DES
+controller=DES
+add_core=DES
+add_core=PIM
+add_core=SON
+trade_goods = cattle
+life_rating = 35

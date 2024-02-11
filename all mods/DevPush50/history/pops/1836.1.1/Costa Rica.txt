@@ -1,0 +1,195 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2147
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9658
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 550
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 231
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1033
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3820
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 41
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2124
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 419
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+}

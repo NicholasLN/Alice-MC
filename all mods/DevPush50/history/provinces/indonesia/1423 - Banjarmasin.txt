@@ -1,0 +1,9 @@
+owner=SUN
+controller=BRU
+add_core=BAU
+add_core=MLY
+add_core=SUN
+trade_goods = sulphur
+life_rating = 35
+naval_base = 2
+fort = 1

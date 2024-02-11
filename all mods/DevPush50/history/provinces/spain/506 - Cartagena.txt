@@ -1,0 +1,6 @@
+owner=GEN
+controller=REB
+add_core=FRA
+add_core=GEN
+trade_goods = fish
+life_rating = 35

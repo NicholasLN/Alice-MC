@@ -1,0 +1,720 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+AKH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 100
+	influence_value = 12
+	level = 4
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -85
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 229
+	military_access = yes
+	influence_value = 44
+	level = 3
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 94
+	influence_value = 11
+	level = 4
+}
+
+#Leaders
+leader = {
+	name="Sun-sin Bae"
+	date="1816.5.17"
+	type=land
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hyeol I Jeong"
+	date="1826.2.3"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Yong-bok Han"
+	date="1828.9.1"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Honghi Na"
+	date="1832.12.11"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=2841
+	ship = {
+		name="Baekdu"
+		type=frigate
+	}
+	ship = {
+		name="Baekje"
+		type=frigate
+	}
+	ship = {
+		name="Changbai"
+		type=frigate
+	}
+	ship = {
+		name="Kumgangsan"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1619
+	ship = {
+		name="Duman"
+		type=manowar
+	}
+	ship = {
+		name="Daedeok"
+		type=manowar
+	}
+	ship = {
+		name="Dongmyeongseong"
+		type=manowar
+	}
+	ship = {
+		name="Gayasan"
+		type=frigate
+	}
+	ship = {
+		name="Geumgang"
+		type=frigate
+	}
+	ship = {
+		name="Geumho"
+		type=frigate
+	}
+	ship = {
+		name="Goguryeo"
+		type=frigate
+	}
+	ship = {
+		name="Gyeon Hwon"
+		type=frigate
+	}
+	ship = {
+		name="Jirisan"
+		type=frigate
+	}
+	ship = {
+		name="Jeongjong"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kwangju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nakdong"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kwangju Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1620
+	regiment = {
+		name="1st Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+	regiment = {
+		name="1st Kwangju Artillery"
+		type=artillery
+		home=1635
+	}
+	regiment = {
+		name="1st Pusan Artillery"
+		type=artillery
+		home=1632
+	}
+	regiment = {
+		name="2nd Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+	regiment = {
+		name="3rd Kwangju Artillery"
+		type=artillery
+		home=1635
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1633
+	regiment = {
+		name="1st Chonchon Irregulars"
+		type=irregular
+		home=1620
+	}
+	regiment = {
+		name="1st Pusan Irregulars"
+		type=irregular
+		home=1632
+	}
+	regiment = {
+		name="2nd Kwangju Artillery"
+		type=artillery
+		home=1635
+	}
+	regiment = {
+		name="1st Chonchon Artillery"
+		type=artillery
+		home=1620
+	}
+	regiment = {
+		name="2nd Chonchon Artillery"
+		type=artillery
+		home=1620
+	}
+}
+

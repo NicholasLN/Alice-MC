@@ -1,0 +1,58 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 14052
+	}
+
+	soldiers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 4133
+	}
+
+	farmers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 2914
+	}
+
+	artisans=
+	{
+		culture = africaine
+		religion = catholic
+		size= 3443
+	}
+
+	clergymen=
+	{
+		culture = africaine
+		religion = catholic
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = africaine
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = africaine
+		religion = catholic
+		size= 51
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=SUD
+controller=ARA
+add_core=NUB
+add_core=SUD
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+fort = 1

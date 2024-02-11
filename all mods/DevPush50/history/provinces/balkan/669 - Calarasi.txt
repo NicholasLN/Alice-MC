@@ -1,0 +1,6 @@
+owner=LTN
+controller=LTN
+add_core=LTN
+add_core=ROM
+trade_goods = coal
+life_rating = 35

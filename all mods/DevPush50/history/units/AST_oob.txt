@@ -1,0 +1,1180 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -9
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 4
+	level = 2
+}
+BRZ = {
+	value = 24
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = -11
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -30
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 61
+	influence_value = 2
+	level = 3
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -11
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LTN = {
+	value = -6
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -9
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 10
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 198
+	influence_value = 37
+	level = 2
+}
+USA = {
+	value = -2
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = -9
+	level = 2
+}
+WSI = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 53
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = -2
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = -11
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Juan Cienfuegos"
+	date="1817.8.13"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Martín Pimentel"
+	date="1821.4.19"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Martín de Luna"
+	date="1822.4.20"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Martín de Alarcón"
+	date="1824.3.10"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Étienne de Villena"
+	date="1829.9.23"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Étienne Nuñez de Balboa"
+	date="1830.12.22"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Martín Coronado"
+	date="1832.3.26"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Thiébaut de Benavides"
+	date="1832.7.26"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Thiébaut de Bazán"
+	date="1835.11.19"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="8th Army"
+	location=2029
+	regiment = {
+		name="1st Eden Infantry"
+		type=infantry
+		home=2472
+	}
+	regiment = {
+		name="1st Cape Town Artillery"
+		type=artillery
+		home=2087
+	}
+	regiment = {
+		name="2nd Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="4th Worcester Artillery"
+		type=artillery
+		home=2089
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2507
+	regiment = {
+		name="1st Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="2nd Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
+	regiment = {
+		name="1st Cape Town Cavalry"
+		type=cavalry
+		home=2087
+	}
+	regiment = {
+		name="1st Worcester Artillery"
+		type=artillery
+		home=2089
+	}
+	regiment = {
+		name="1st Swettenham Artillery"
+		type=artillery
+		home=2090
+	}
+	regiment = {
+		name="1st Bourbon Artillery"
+		type=artillery
+		home=2126
+	}
+	regiment = {
+		name="1st Fiji Artillery"
+		type=artillery
+		home=2454
+	}
+	regiment = {
+		name="1st Townsville Artillery"
+		type=artillery
+		home=2487
+	}
+	regiment = {
+		name="1st Graaf Reinet Infantry"
+		type=infantry
+		home=2097
+	}
+	regiment = {
+		name="2nd Worcester Cavalry"
+		type=cavalry
+		home=2089
+	}
+	regiment = {
+		name="2nd Bourbon Artillery"
+		type=artillery
+		home=2126
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2087
+	regiment = {
+		name="1st Gladstone Infantry"
+		type=infantry
+		home=2484
+	}
+	regiment = {
+		name="1st Sydney Cavalry"
+		type=cavalry
+		home=2468
+	}
+	regiment = {
+		name="2nd Worcester Artillery"
+		type=artillery
+		home=2089
+	}
+	regiment = {
+		name="1st Mossel Bay Infantry"
+		type=infantry
+		home=2091
+	}
+	regiment = {
+		name="1st Worcester Cavalry"
+		type=cavalry
+		home=2089
+	}
+	regiment = {
+		name="3rd Swettenham Artillery"
+		type=artillery
+		home=2090
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2867
+	ship = {
+		name="Darwin"
+		type=frigate
+	}
+	ship = {
+		name="Darling"
+		type=frigate
+	}
+	ship = {
+		name="Diamantina"
+		type=frigate
+	}
+	ship = {
+		name="Dawson"
+		type=frigate
+	}
+	ship = {
+		name="Dee"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kirikiriroa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Esperance Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ahuriri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Port Macquarie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Otautahi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Otepoti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Roebourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Otepoti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Normanton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Port Macquarie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Palau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Van Diemen's Land Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=2470
+	regiment = {
+		name="1st Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="2nd Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="3rd Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="4th Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="5th Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="6th Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2470
+	regiment = {
+		name="7th Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+	regiment = {
+		name="8th Cape Town Infantry"
+		type=infantry
+		home=2087
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2087
+	ship = {
+		name="Spitfire"
+		type=manowar
+	}
+	ship = {
+		name="Adelaide"
+		type=manowar
+	}
+	ship = {
+		name="Gold Coast"
+		type=manowar
+	}
+	ship = {
+		name="Murray"
+		type=manowar
+	}
+	ship = {
+		name="Sheila"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Macquarie Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Roebourne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Broome Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mossel Bay Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Brisbane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Roebourne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tennant Creek Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Broome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Port Lincoln Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Diego Garcia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Niue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tennant Creek Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Brisbane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Broome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Eden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Roebourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Newcastle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Roebourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cooktown Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Port Macquarie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Roebourne Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2087
+	regiment = {
+		name="2nd Cape Town Cavalry"
+		type=cavalry
+		home=2087
+	}
+	regiment = {
+		name="1st Port Macquarie Artillery"
+		type=artillery
+		home=2470
+	}
+	regiment = {
+		name="2nd Cape Town Artillery"
+		type=artillery
+		home=2087
+	}
+	regiment = {
+		name="3rd Worcester Cavalry"
+		type=cavalry
+		home=2089
+	}
+	regiment = {
+		name="3rd Worcester Artillery"
+		type=artillery
+		home=2089
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2482
+	ship = {
+		name="2nd Gladstone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wallis and Futuna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taveuni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brisbane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Roebourne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Port Macquarie Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Gladstone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Brisbane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Van Diemen's Land Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Roebourne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Wallis and Futuna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Brisbane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Gladstone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Brisbane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Brisbane Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Roebourne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Van Diemen's Land Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Taveuni Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2571
+	regiment = {
+		name="1st Auckland Artillery"
+		type=artillery
+		home=2509
+	}
+	regiment = {
+		name="2nd Swettenham Artillery"
+		type=artillery
+		home=2090
+	}
+	regiment = {
+		name="1st Ahuriri Artillery"
+		type=artillery
+		home=2511
+	}
+}
+

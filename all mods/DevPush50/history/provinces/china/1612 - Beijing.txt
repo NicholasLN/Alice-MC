@@ -1,0 +1,10 @@
+owner=YUA
+controller=JIN
+add_core=CHI
+add_core=JIN
+add_core=KHA
+add_core=YAN
+add_core=YUA
+trade_goods = tea
+life_rating = 32
+fort = 1

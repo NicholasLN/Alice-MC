@@ -1,0 +1,16 @@
+2244 = {
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 11
+	}
+
+}

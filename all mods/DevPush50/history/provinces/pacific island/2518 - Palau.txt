@@ -1,0 +1,12 @@
+owner=AST
+controller=AST
+add_core=AST
+trade_goods = fruit
+life_rating = 30
+terrain = small_island
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

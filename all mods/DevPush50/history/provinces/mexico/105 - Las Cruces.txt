@@ -1,0 +1,6 @@
+owner=DES
+controller=MEX
+add_core=DES
+add_core=IST
+trade_goods = cattle
+life_rating = 35

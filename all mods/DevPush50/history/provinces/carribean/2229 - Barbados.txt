@@ -1,0 +1,6 @@
+owner=GEN
+controller=GEN
+trade_goods = tobacco
+life_rating = 35
+terrain = new_world_plains
+naval_base = 1

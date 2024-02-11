@@ -1,0 +1,7 @@
+owner=OGD
+controller=ETH
+add_core=ETH
+add_core=OGD
+trade_goods = cattle
+life_rating = 10
+terrain = dryhills

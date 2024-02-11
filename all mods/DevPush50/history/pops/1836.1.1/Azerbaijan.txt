@@ -1,0 +1,418 @@
+1102 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 543
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 2470
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 15696
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1103 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 373
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 4593
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 503
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size= 1631
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 6567
+	}
+
+}
+1104 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = catholic
+		size= 3660
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = catholic
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 1830
+	}
+
+}
+1105 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 479
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 2397
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 13780
+	}
+
+}
+1106 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 608
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 255
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 13749
+	}
+
+}
+1107 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 2001
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = catholic
+		size= 11565
+	}
+
+}

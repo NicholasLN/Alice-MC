@@ -1,0 +1,5 @@
+owner=CEB
+controller=CEB
+trade_goods = iron
+life_rating = 35
+naval_base = 1

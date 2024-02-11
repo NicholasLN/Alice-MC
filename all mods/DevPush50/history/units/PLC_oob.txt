@@ -1,0 +1,982 @@
+#Sphere of Influence
+
+ACO = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ATR = {
+	value = 0
+	level = 2
+}
+AUL = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 43
+	level = 2
+}
+BLA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -4
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -16
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 45
+	level = 3
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = -35
+	level = 2
+}
+GRE = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+GYN = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 43
+	level = 2
+}
+ITA = {
+	value = 92
+	influence_value = 10
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNG = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -11
+	level = 2
+}
+LOU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LTN = {
+	value = -39
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OGD = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEQ = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PIM = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+QTO = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAL = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 45
+	level = 3
+}
+SHU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMI = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = -7
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+USA = {
+	value = 52
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WSI = {
+	value = 114
+	influence_value = 16
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+X04 = {
+	value = 9
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+YEM = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUA = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+ZUN = {
+	value = 29
+	level = 2
+}
+ZZZ = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Miroslaw Komorowski"
+	date="1801.9.1"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Aleksander Malski"
+	date="1802.7.3"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Stanislaw Radziejowski"
+	date="1814.10.26"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gediminas Zebrzydowski"
+	date="1824.7.27"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Gintaras Massalski"
+	date="1828.7.13"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Jurgis Rytwianski"
+	date="1831.3.5"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Tomas Pociej"
+	date="1831.10.24"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Karolis Mycielski"
+	date="1826.3.15"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Algirdas Niesiolowski"
+	date="1833.10.15"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Andrzej Dzialynski"
+	date="1835.9.16"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="Kujawi"
+	location=625
+	regiment = {
+		name="1st Tuchel Infantry"
+		type=infantry
+		home=691
+	}
+	regiment = {
+		name="1st Panevezys Cavalry"
+		type=cavalry
+		home=363
+	}
+	regiment = {
+		name="1st Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="1st Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Danzig Artillery"
+		type=artillery
+		home=690
+	}
+	regiment = {
+		name="1st Chisinau Infantry"
+		type=infantry
+		home=676
+	}
+	regiment = {
+		name="1st Kaunas Cavalry"
+		type=cavalry
+		home=361
+	}
+	regiment = {
+		name="2nd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+}
+
+army = {
+	name="Armia z Warszawa"
+	location=710
+	regiment = {
+		name="1st Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="1st Tarnow Cavalry"
+		type=cavalry
+		home=714
+	}
+	regiment = {
+		name="2nd Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Bialystok Artillery"
+		type=artillery
+		home=719
+	}
+	regiment = {
+		name="1st Kielce Artillery"
+		type=artillery
+		home=716
+	}
+	regiment = {
+		name="1st Kattowitz Cavalry"
+		type=cavalry
+		home=685
+	}
+	regiment = {
+		name="4th Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+}
+
+army = {
+	name="1st Army"
+	location=355
+	regiment = {
+		name="1st Lublin Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="1st Pinsk Cavalry"
+		type=cavalry
+		home=940
+	}
+	regiment = {
+		name="1st Kovel Artillery"
+		type=artillery
+		home=957
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Siauliai Artillery"
+		type=artillery
+		home=364
+	}
+	regiment = {
+		name="1st Radom Cavalry"
+		type=cavalry
+		home=713
+	}
+}
+
+army = {
+	name="Armia z Podlasie"
+	location=556
+	regiment = {
+		name="1st Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Skierniewice Cavalry"
+		type=cavalry
+		home=710
+	}
+	regiment = {
+		name="3rd Warsaw Artillery"
+		type=artillery
+		home=706
+	}
+	regiment = {
+		name="1st Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Grodno Artillery"
+		type=artillery
+		home=936
+	}
+}
+
+army = {
+	name="Armia z Tehinia"
+	location=678
+	regiment = {
+		name="1st Siedlce Infantry"
+		type=infantry
+		home=711
+	}
+	regiment = {
+		name="1st Przemysl Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Brest-Litovsk Infantry"
+		type=infantry
+		home=937
+	}
+	regiment = {
+		name="1st Königsberg Cavalry"
+		type=cavalry
+		home=695
+	}
+	regiment = {
+		name="1st Krivoy Rog Cavalry"
+		type=cavalry
+		home=971
+	}
+	regiment = {
+		name="1st Cherkassy Cavalry"
+		type=cavalry
+		home=961
+	}
+	regiment = {
+		name="1st Stryi Artillery"
+		type=artillery
+		home=951
+	}
+	regiment = {
+		name="2nd Kielce Artillery"
+		type=artillery
+		home=716
+	}
+	regiment = {
+		name="1st Stanislavov Artillery"
+		type=artillery
+		home=953
+	}
+	regiment = {
+		name="1st Stryi Infantry"
+		type=infantry
+		home=951
+	}
+	regiment = {
+		name="1st Bacau Cavalry"
+		type=cavalry
+		home=672
+	}
+	regiment = {
+		name="2nd Stanislavov Artillery"
+		type=artillery
+		home=953
+	}
+}
+
+army = {
+	name="Armia z Kalisz"
+	location=544
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="1st Gniezno Cavalry"
+		type=cavalry
+		home=701
+	}
+	regiment = {
+		name="1st Küstrin Artillery"
+		type=artillery
+		home=681
+	}
+	regiment = {
+		name="1st Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="1st Lodz Artillery"
+		type=artillery
+		home=712
+	}
+	regiment = {
+		name="1st Kalisz Infantry"
+		type=infantry
+		home=717
+	}
+}
+
+army = {
+	name="Armia z Gdansk"
+	location=703
+	regiment = {
+		name="1st Danzig Infantry"
+		type=infantry
+		home=690
+	}
+	regiment = {
+		name="1st Tuchel Cavalry"
+		type=cavalry
+		home=691
+	}
+	regiment = {
+		name="1st Krakow Artillery"
+		type=artillery
+		home=703
+	}
+	regiment = {
+		name="2nd Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="1st Oppeln Artillery"
+		type=artillery
+		home=684
+	}
+	regiment = {
+		name="2nd Köslin Infantry"
+		type=infantry
+		home=680
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=360
+	regiment = {
+		name="1st Köslin Infantry"
+		type=infantry
+		home=680
+	}
+	regiment = {
+		name="1st Warsaw Cavalry"
+		type=cavalry
+		home=706
+	}
+	regiment = {
+		name="1st Lublin Artillery"
+		type=artillery
+		home=715
+	}
+	regiment = {
+		name="1st Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="2nd Bialystok Artillery"
+		type=artillery
+		home=719
+	}
+	regiment = {
+		name="2nd Tuchel Infantry"
+		type=infantry
+		home=691
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=951
+	regiment = {
+		name="2nd Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="1st Bialystok Cavalry"
+		type=cavalry
+		home=719
+	}
+	regiment = {
+		name="3rd Plock Infantry"
+		type=infantry
+		home=708
+	}
+}
+

@@ -1,0 +1,7 @@
+owner=CRT
+controller=CRT
+add_core=CRT
+add_core=SLO
+add_core=YUG
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=X10
+controller=X10
+add_core=GOC
+add_core=HND
+add_core=X10
+trade_goods = silk
+life_rating = 32
