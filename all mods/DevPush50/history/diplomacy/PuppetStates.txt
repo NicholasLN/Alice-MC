@@ -78,7 +78,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="CXI"
@@ -86,7 +86,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="NNG"
@@ -94,7 +94,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="CWU"
@@ -102,7 +102,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="SHU"
@@ -110,7 +110,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="MIN"
@@ -118,7 +118,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="LNG"
@@ -126,7 +126,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="JIN"
@@ -134,7 +134,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="CSH"
@@ -142,7 +142,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="CHC"
@@ -150,7 +150,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="YUE"
@@ -158,7 +158,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="KHA"
@@ -166,7 +166,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="YUA"
 	second="KRC"
