@@ -1,4 +1,4 @@
 - [X] Changed Scandinavian flag (optional)
-- [ ] Update Post-Napoleonic Thought and Post-Nelsonian Doctrine to line up with the alt history
+- [X] Update Post-Napoleonic Thought and Post-Nelsonian Doctrine to line up with the alt history
 - [X] Separate South Africa from Australia
 - [ ] Give different colors to colonies (in case they go independent)
