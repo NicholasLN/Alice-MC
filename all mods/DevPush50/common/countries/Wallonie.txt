@@ -1,5 +1,5 @@
 graphical_culture = UsGC
-color = { 73 96 220 }
+color = { 218 18 90 }
 
 party = {
 	name = "X15_anarcho_liberal"
