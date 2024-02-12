@@ -1,4 +1,4 @@
-owner=AST
-controller=AST
+owner=SAF
+controller=SAF
 trade_goods = wool
 life_rating = 35
