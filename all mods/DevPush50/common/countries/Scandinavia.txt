@@ -8,9 +8,9 @@ party = {
 
 	ideology = liberal
 
-	citizenship_policy = limited_citizenship
+	citizenship_policy = residency
 	economic_policy = laissez_faire
-	religious_policy = pluralism
+	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = free_trade
 	war_policy = pro_military
@@ -25,7 +25,7 @@ party = {
 
 	citizenship_policy = limited_citizenship
 	economic_policy = laissez_faire
-	religious_policy = pluralism
+	religious_policy = secularized
 	social_policy = no_state_interference
 	trade_policy = free_trade
 	war_policy = jingoism
@@ -38,10 +38,10 @@ party = {
 
 	ideology = conservative
 
-	citizenship_policy = residency
+	citizenship_policy = limited_citizenship
 	economic_policy = interventionism
 	religious_policy = moralism
-	social_policy = no_position_set
+	social_policy = no_state_interference
 	trade_policy = protectionism
 	war_policy = pro_military
 }
@@ -56,7 +56,7 @@ party = {
 	citizenship_policy = residency
 	economic_policy = state_capitalism
 	religious_policy = moralism
-	social_policy = no_position_set
+	social_policy = no_state_interference
 	trade_policy = protectionism
 	war_policy = jingoism
 }
@@ -98,10 +98,10 @@ party = {
 
 	ideology = liberal
 
-	citizenship_policy = residency
+	citizenship_policy = limited_citizenship
 	economic_policy = interventionism
 	religious_policy = pluralism
-	social_policy = no_position_set
+	social_policy = populist_welfare
 	trade_policy = protectionism
 	war_policy = pro_military
 }
@@ -115,10 +115,10 @@ party = {
 
 	citizenship_policy = limited_citizenship
 	economic_policy = interventionism
-	religious_policy = moralism
+	religious_policy = pluralism
 	social_policy = no_position_set
 	trade_policy = protectionism
-	war_policy = pro_military
+	war_policy = anti_military
 }
 
 party = {
@@ -131,9 +131,9 @@ party = {
 	citizenship_policy = full_citizenship
 	economic_policy = laissez_faire
 	religious_policy = moralism
-	social_policy = no_position_set
+	social_policy = populist_welfare
 	trade_policy = free_trade
-	war_policy = pro_military
+	war_policy = jingoism
 }
 
 party = {
@@ -143,12 +143,12 @@ party = {
 
 	ideology = liberal
 
-	citizenship_policy = residency
-	economic_policy = interventionism
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = jingoism
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = secularized
+	social_policy = populist_welfare
+	trade_policy = free_trade
+	war_policy = anti_military
 }
 
 party = {
@@ -168,25 +168,25 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August Ehrensv‰rd" Fredrik Johan Manligheten Dristigheten Sverige ¡ss Vanr ¡lfr Jˆtunn "Ulrik Christian Gyldenl¯ve" K¯benhavn ≈rhus ≈lborg Odense Fredriksberg Esbjerg "N¯rrejyske ÿ" Fyn JÛtlandshaf
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August Ehrensv√§rd" Fredrik Johan Manligheten Dristigheten Sverige √Åss Vanr √Ålfr J√∂tunn "Ulrik Christian Gyldenl√∏ve" K√∏benhavn √Örhus √Ölborg Odense Fredriksberg Esbjerg "N√∏rrejyske √ò" Fyn J√≥tlandshaf
 	}
 	battleship = {
 		
 	}
 	ironclad = {
-		Gˆteborg Malmˆ Uppsala V‰sterÂs ÷rebro Linkˆping Helsingborg Nyn‰shamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
+		G√∂teborg Malm√∂ Uppsala V√§ster√•s √ñrebro Link√∂ping Helsingborg Nyn√§shamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
 	}
 	manowar = {
-		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Fˆrsiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ÿrnen "Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm F√∂rsiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros √òrnen "Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik
 	}
 	cruiser = {
-		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Gˆta Lejon" ÷stersund Borgholm Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" S¯eormen SusÂen GudenÂen
+		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "G√∂ta Lejon" √ñstersund Borgholm Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" S√∏eormen Sus√•en Guden√•en
 	}
 	frigate = {
-		Packa "Svarta ÷rn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" V‰xjˆ G‰vle "Baron Gustaf Bonde" Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ÿrnen Najaden Hummer Stralsund S¯ridder Leopard Raae "Esbern Snare" ÿrnen SjÊlland Gefion Thetis "Niels Juel" Rota
+		Packa "Svarta √ñrn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" V√§xj√∂ G√§vle "Baron Gustaf Bonde" Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros √òrnen Najaden Hummer Stralsund S√∏ridder Leopard Raae "Esbern Snare" √òrnen Sj√¶lland Gefion Thetis "Niels Juel" Rota
 	}
 	monitor = {
-		"John Ericsson" Loke Skˆld Tirfing Tordˆn Berserk Bjˆrn Folke Sˆlve Ulf Fenris Garmer Gerda Hildur Skorpionen Mj¯lner Thrudvang Freia Diana Lindormen St¯ren Stubberk¯bing Gejser Kiel Falster Narhvalen Tumleren
+		"John Ericsson" Loke Sk√∂ld Tirfing Tord√∂n Berserk Bj√∂rn Folke S√∂lve Ulf Fenris Garmer Gerda Hildur Skorpionen Mj√∏lner Thrudvang Freia Diana Lindormen St√∏ren Stubberk√∏bing Gejser Kiel Falster Narhvalen Tumleren
 	}
 	clipper_transport = {
 		
@@ -195,6 +195,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Bjˆrn J‰rnsida" "Erik Segers‰ll" "Gardarr Svavarsson" Birka AsgÂrd Kraken B‰ckah‰st Storsjˆn V‰nern V‰ttern Heimdal "Fridtjof Nansen" Nordkapp "Esbern Snare" Fylla FÊr¯erne Gr¯nland VÌkingr "Harald Klak" "Svend TveskÊg" Kattegat ÿresund Silkeborg
+		"Bj√∂rn J√§rnsida" "Erik Segers√§ll" "Gardarr Svavarsson" Birka Asg√•rd Kraken B√§ckah√§st Storsj√∂n V√§nern V√§ttern Heimdal "Fridtjof Nansen" Nordkapp "Esbern Snare" Fylla F√¶r√∏erne Gr√∏nland V√≠kingr "Harald Klak" "Svend Tvesk√¶g" Kattegat √òresund Silkeborg
 	}
 }
