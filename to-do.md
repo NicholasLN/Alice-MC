@@ -3,4 +3,4 @@
 - [X] Separate South Africa from Australia
 - [X] Give different colors to colonies (in case they go independent)
 - [X] Edit French aesthetics, accepted cultures, and parties
-- [ ] Edit Scandinavian aesthetics, accepted cultures, and parties
+- [X] Edit Scandinavian aesthetics, accepted cultures, and parties
