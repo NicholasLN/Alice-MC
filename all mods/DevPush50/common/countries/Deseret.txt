@@ -1,5 +1,5 @@
 graphical_culture = UsGC
-color = { 65 89 218 }
+color = { 253 217 181 }
 
 party = {
 	name = "DES_reactionary"
