@@ -1,5 +1,5 @@
-owner=RUS
-controller=RUS
+owner=ZUN
+controller=ZUN
 add_core=SIB
 trade_goods = grain
 life_rating = 35
