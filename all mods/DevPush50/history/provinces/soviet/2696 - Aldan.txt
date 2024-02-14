@@ -1,5 +1,4 @@
-owner=ZUN
-controller=ZUN
-add_core=ZUN
+owner=RUS
+controller=RUS
 trade_goods = grain
 life_rating = 20
