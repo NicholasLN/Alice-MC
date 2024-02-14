@@ -168,7 +168,7 @@ party = {
 
 party = {
 	name = "ITA_greek"
-	start_date = 1800.1.1
+	start_date = 1850.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
