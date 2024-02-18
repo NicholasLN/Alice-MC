@@ -1,11 +1,12 @@
 capital = 2209
-primary_culture = caribeno
+primary_culture = mexican
+culture = afro_caribeno
 culture = zzz_religion_catholic
 religion = catholic
-government = presidential_dictatorship
+government = democracy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0
+literacy = 0.6
 
 civilized = yes
 
@@ -28,7 +29,7 @@ press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
 
-ruling_party = CUB_reactionary
+ruling_party = CUB_conservative
 upper_house = 
 {
 	fascist = 0
