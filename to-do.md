@@ -1,7 +1,0 @@
-- [X] Scandinavia: Non-Secret Ballots
-- [X] Cuba
-- [X] Dominican Republic
-- [X] Genoese Greater Antilles and Turks & Caicos to WSI
-- [X] Open Borders
-- [X] Diplo (SCA): Guarantee California, West Indies, Cuba, Dominican Republic - Friendly relations
-- [X] Diplo (GEN): Guarantee California, Haiti - Friendly relations
