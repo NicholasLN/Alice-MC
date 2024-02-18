@@ -33,7 +33,7 @@ voting_system=jefferson_method
 public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=non_socialist
-political_parties=gerrymandering
+political_parties=non_secret_ballots
 
 ruling_party = SCA_conservative
 upper_house = 
