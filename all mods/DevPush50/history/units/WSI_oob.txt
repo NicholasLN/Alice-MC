@@ -445,23 +445,4 @@ ZUN = {
 #Leaders
 
 #Armies
-army = {
-	name="1st Army"
-	location=2214
-	regiment = {
-		name="1st Santo Domingo Artillery"
-		type=artillery
-		home=2214
-	}
-	regiment = {
-		name="1st La Vega Artillery"
-		type=artillery
-		home=2216
-	}
-	regiment = {
-		name="2nd Santo Domingo Artillery"
-		type=artillery
-		home=2214
-	}
-}
 

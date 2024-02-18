@@ -1,6 +1,0 @@
-- [X] Changed Scandinavian flag (optional)
-- [X] Update Post-Napoleonic Thought and Post-Nelsonian Doctrine to line up with the alt history
-- [X] Separate South Africa from Australia
-- [X] Give different colors to colonies (in case they go independent)
-- [X] Edit French aesthetics, accepted cultures, and parties
-- [X] Edit Scandinavian aesthetics, accepted cultures, and parties

@@ -318,3 +318,50 @@ alliance=
 	end_date="1936.1.1"
 }
 
+alliance=
+{
+	first="SCA"
+	second="CAL"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="WSI"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="CUB"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="DOM"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}
+
+alliance=
+{
+	first="GEN"
+	second="CAL"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}
+
+alliance=
+{
+	first="GEN"
+	second="HAI"
+	start_date="1836.1.1"
+	end_date="2000.1.1"
+}

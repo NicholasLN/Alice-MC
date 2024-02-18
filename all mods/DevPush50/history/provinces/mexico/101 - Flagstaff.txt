@@ -1,7 +1,8 @@
-owner=DES
-controller=DES
+owner=FRA
+controller=FRA
 add_core=CAL
 add_core=DES
 add_core=USA
 trade_goods = iron
 life_rating = 35
+colonial=2
