@@ -1,5 +1,5 @@
 - [X] Scandinavia: Non-Secret Ballots
-- [ ] Cuba
+- [X] Cuba
 - [ ] Dominican Republic
 - [ ] Genoese Greater Antilles and Turks & Caicos to WSI
 - [ ] Open Borders

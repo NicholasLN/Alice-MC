@@ -1,7 +1,8 @@
-owner=WSI
-controller=WSI
+owner=DOM
+controller=DOM
 add_core=USA
 add_core=WSI
+add_core=DOM
 trade_goods = tobacco
 life_rating = 35
 naval_base = 2
