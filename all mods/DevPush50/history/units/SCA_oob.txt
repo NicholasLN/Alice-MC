@@ -90,8 +90,10 @@ BUG = {
 	level = 2
 }
 CAL = {
-	value = 4
-	level = 2
+	value = 100
+	military_access = yes
+	influence_value = 100
+	level = 4
 }
 CAM = {
 	value = 0
@@ -139,6 +141,12 @@ CUA = {
 	value = 0
 	level = 2
 }
+CUB = {
+	value = 100
+	military_access = yes
+	influence_value = 100
+	level = 4
+}
 CWU = {
 	value = 0
 	level = 2
@@ -150,6 +158,12 @@ CXI = {
 DES = {
 	value = 0
 	level = 2
+}
+DOM = {
+	value = 100
+	military_access = yes
+	influence_value = 100
+	level = 4
 }
 ETH = {
 	value = 0
@@ -454,16 +468,16 @@ UBH = {
 	level = 2
 }
 UCA = {
-	value = 46
-	level = 2
+	value = -50
+	level = 1
 }
 USA = {
-	value = 43
-	level = 2
+	value = -50
+	level = 1
 }
 VNZ = {
-	value = 34
-	level = 2
+	value = -50
+	level = 1
 }
 VRM = {
 	value = 61
@@ -476,8 +490,9 @@ WES = {
 }
 WSI = {
 	value = 143
-	influence_value = 23
-	level = 2
+	military_access = yes
+	influence_value = 100
+	level = 4
 }
 X02 = {
 	value = 0

@@ -3,5 +3,5 @@
 - [X] Dominican Republic
 - [X] Genoese Greater Antilles and Turks & Caicos to WSI
 - [X] Open Borders
-- [ ] Diplo (SCA): Guarantee California, West Indies, Cuba, Dominican Republic - Friendly relations
-- [ ] Diplo (GEN): Guarantee California, Haiti - Friendly relations
+- [X] Diplo (SCA): Guarantee California, West Indies, Cuba, Dominican Republic - Friendly relations
+- [X] Diplo (GEN): Guarantee California, Haiti - Friendly relations

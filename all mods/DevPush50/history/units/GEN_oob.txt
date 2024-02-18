@@ -82,8 +82,10 @@ BUG = {
 	level = 2
 }
 CAL = {
-	value = 0
-	level = 2
+	value = 100
+	military_access = yes
+	influence_value = 75
+	level = 4
 }
 CAM = {
 	value = 0
@@ -169,6 +171,12 @@ GRE = {
 GRI = {
 	value = 0
 	level = 2
+}
+HAI = {
+	value = 100
+	military_access = yes
+	influence_value = 100
+	level = 4
 }
 HDA = {
 	value = 0
