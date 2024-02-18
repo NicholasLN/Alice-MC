@@ -640,88 +640,59 @@ leader = {
 
 
 #Armies
-army = {
-	name="Kujawi"
-	location=625
-	regiment = {
-		name="1st Tuchel Infantry"
-		type=infantry
-		home=691
-	}
-	regiment = {
-		name="1st Panevezys Cavalry"
-		type=cavalry
-		home=363
-	}
-	regiment = {
-		name="1st Gniezno Artillery"
-		type=artillery
-		home=701
-	}
-	regiment = {
-		name="1st Warsaw Artillery"
-		type=artillery
-		home=706
-	}
-	regiment = {
-		name="1st Danzig Artillery"
-		type=artillery
-		home=690
-	}
-	regiment = {
-		name="1st Chisinau Infantry"
-		type=infantry
-		home=676
-	}
-	regiment = {
-		name="1st Kaunas Cavalry"
-		type=cavalry
-		home=361
-	}
-	regiment = {
-		name="2nd Skierniewice Artillery"
-		type=artillery
-		home=710
-	}
-}
 
 army = {
 	name="Armia z Warszawa"
 	location=710
 	regiment = {
-		name="1st Plock Infantry"
+		name="Infantry"
 		type=infantry
 		home=708
 	}
 	regiment = {
-		name="1st Tarnow Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=714
 	}
 	regiment = {
-		name="2nd Warsaw Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=706
 	}
 	regiment = {
-		name="1st Bialystok Artillery"
+		name="Infantry"
+		type=infantry
+		home=715
+	}
+	regiment = {
+		name="Artillery"
 		type=artillery
 		home=719
 	}
 	regiment = {
-		name="1st Kielce Artillery"
+		name="Artillery"
 		type=artillery
 		home=716
 	}
 	regiment = {
-		name="1st Kattowitz Cavalry"
-		type=cavalry
+		name="Artillery"
+		type=artillery
 		home=685
 	}
 	regiment = {
-		name="4th Warsaw Artillery"
+		name="Artillery"
 		type=artillery
 		home=706
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="Cavalry"
+		type=cavalry
+		home=940
 	}
 }
 
@@ -729,63 +700,48 @@ army = {
 	name="1st Army"
 	location=355
 	regiment = {
-		name="1st Lublin Infantry"
+		name="Infantry"
 		type=infantry
-		home=715
-	}
-	regiment = {
-		name="1st Pinsk Cavalry"
-		type=cavalry
-		home=940
-	}
-	regiment = {
-		name="1st Kovel Artillery"
-		type=artillery
 		home=957
 	}
 	regiment = {
-		name="1st Plock Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=708
 	}
 	regiment = {
-		name="1st Siauliai Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=364
 	}
 	regiment = {
-		name="1st Radom Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=713
 	}
-}
-
-army = {
-	name="Armia z Podlasie"
-	location=556
 	regiment = {
-		name="1st Skierniewice Infantry"
-		type=infantry
+		name="Artillery"
+		type=artillery
 		home=710
 	}
 	regiment = {
-		name="1st Skierniewice Cavalry"
-		type=cavalry
+		name="Artillery"
+		type=artillery
 		home=710
 	}
 	regiment = {
-		name="3rd Warsaw Artillery"
+		name="Artillery"
 		type=artillery
 		home=706
 	}
 	regiment = {
-		name="1st Skierniewice Artillery"
+		name="Artillery"
 		type=artillery
 		home=710
 	}
 	regiment = {
-		name="1st Grodno Artillery"
-		type=artillery
+		name="Cavalry"
+		type=cavalry
 		home=936
 	}
 }
@@ -794,63 +750,53 @@ army = {
 	name="Armia z Tehinia"
 	location=678
 	regiment = {
-		name="1st Siedlce Infantry"
+		name="Infantry"
 		type=infantry
 		home=711
 	}
 	regiment = {
-		name="1st Przemysl Infantry"
+		name="Infantry"
 		type=infantry
 		home=705
 	}
 	regiment = {
-		name="1st Brest-Litovsk Infantry"
+		name="Infantry"
 		type=infantry
 		home=937
 	}
 	regiment = {
-		name="1st Königsberg Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=695
 	}
 	regiment = {
-		name="1st Krivoy Rog Cavalry"
-		type=cavalry
+		name="Artillery"
+		type=artillery
 		home=971
 	}
 	regiment = {
-		name="1st Cherkassy Cavalry"
-		type=cavalry
+		name="Artillery"
+		type=artillery
 		home=961
 	}
 	regiment = {
-		name="1st Stryi Artillery"
+		name="Artillery"
 		type=artillery
 		home=951
 	}
 	regiment = {
-		name="2nd Kielce Artillery"
+		name="Artillery"
 		type=artillery
 		home=716
 	}
 	regiment = {
-		name="1st Stanislavov Artillery"
+		name="Artillery"
 		type=artillery
-		home=953
+		home=361
 	}
 	regiment = {
-		name="1st Stryi Infantry"
-		type=infantry
-		home=951
-	}
-	regiment = {
-		name="1st Bacau Cavalry"
+		name="Cavalry"
 		type=cavalry
-		home=672
-	}
-	regiment = {
-		name="2nd Stanislavov Artillery"
-		type=artillery
 		home=953
 	}
 }
@@ -859,34 +805,54 @@ army = {
 	name="Armia z Kalisz"
 	location=544
 	regiment = {
-		name="1st Deutsch Krone Infantry"
+		name="Infantry"
 		type=infantry
 		home=692
 	}
 	regiment = {
-		name="1st Gniezno Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=701
 	}
 	regiment = {
-		name="1st Küstrin Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=681
 	}
 	regiment = {
-		name="1st Breslau Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=682
 	}
 	regiment = {
-		name="1st Lodz Artillery"
+		name="Artillery"
 		type=artillery
 		home=712
 	}
 	regiment = {
-		name="1st Kalisz Infantry"
-		type=infantry
+		name="Artillery"
+		type=artillery
 		home=717
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=953
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=951
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=676
+	}
+	regiment = {
+		name="Cavalry"
+		type=cavalry
+		home=672
 	}
 }
 
@@ -894,69 +860,54 @@ army = {
 	name="Armia z Gdansk"
 	location=703
 	regiment = {
-		name="1st Danzig Infantry"
+		name="Infantry"
 		type=infantry
 		home=690
 	}
 	regiment = {
-		name="1st Tuchel Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=691
 	}
 	regiment = {
-		name="1st Krakow Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=703
 	}
 	regiment = {
-		name="2nd Breslau Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry
 		home=682
 	}
 	regiment = {
-		name="1st Oppeln Artillery"
+		name="Artillery"
 		type=artillery
 		home=684
 	}
 	regiment = {
-		name="2nd Köslin Infantry"
-		type=infantry
-		home=680
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=360
-	regiment = {
-		name="1st Köslin Infantry"
-		type=infantry
+		name="Artillery"
+		type=artillery
 		home=680
 	}
 	regiment = {
-		name="1st Warsaw Cavalry"
-		type=cavalry
+		name="Artillery"
+		type=artillery
+		home=680
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
 		home=706
 	}
 	regiment = {
-		name="1st Lublin Artillery"
+		name="Artillery"
 		type=artillery
+		home=706
+	}
+	regiment = {
+		name="Cavalry"
+		type=cavalry
 		home=715
-	}
-	regiment = {
-		name="1st Allenstein Artillery"
-		type=artillery
-		home=696
-	}
-	regiment = {
-		name="2nd Bialystok Artillery"
-		type=artillery
-		home=719
-	}
-	regiment = {
-		name="2nd Tuchel Infantry"
-		type=infantry
-		home=691
 	}
 }
 
@@ -964,19 +915,54 @@ army = {
 	name="3rd Army"
 	location=951
 	regiment = {
-		name="2nd Plock Infantry"
+		name="Infantry"
 		type=infantry
 		home=708
 	}
 	regiment = {
-		name="1st Bialystok Cavalry"
-		type=cavalry
+		name="Infantry"
+		type=infantry
 		home=719
 	}
 	regiment = {
-		name="3rd Plock Infantry"
+		name="Infantry"
 		type=infantry
 		home=708
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=696
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=719
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=690
+	}
+	regiment = {
+		name="Cavalry"
+		type=cavalry
+		home=363
 	}
 }
 
