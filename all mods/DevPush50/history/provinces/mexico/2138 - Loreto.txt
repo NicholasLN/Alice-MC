@@ -1,5 +1,5 @@
-owner=DES
-controller=DES
+owner=FRA
+controller=FRA
 add_core=DES
 trade_goods = fish
 life_rating = 32

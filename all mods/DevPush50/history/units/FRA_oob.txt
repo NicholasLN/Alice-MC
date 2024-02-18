@@ -141,12 +141,6 @@ CXI = {
 	value = 0
 	level = 2
 }
-DES = {
-	value = 160
-	military_access = yes
-	influence_value = 77
-	level = 5
-}
 ETH = {
 	value = 0
 	level = 2
@@ -558,7 +552,14 @@ ZUN = {
 
 #Leaders
 leader = {
-	name="Childï¿½bert de Broglie"
+	name="Childéric de Saint-Esprit"
+	date="1829.1.19"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+leader = {
+	name="Childébert de Broglie"
 	date="1813.7.13"
 	type=land
 	personality="unflinching"
@@ -566,7 +567,7 @@ leader = {
 }
 
 leader = {
-	name="Chilpï¿½ric de La Ferrandie"
+	name="Chilpéric de La Ferrandie"
 	date="1814.5.9"
 	type=land
 	personality="coolminded"
@@ -1322,6 +1323,28 @@ army = {
 		name="2nd La Rochelle Artillery"
 		type=artillery
 		home=442
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2141
+	ship = {
+		name="1st Unalakleet Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=3012
+	ship = {
+		name="Puceron"
+		type=frigate
+	}
+	ship = {
+		name="Aurengarde"
+		type=frigate
 	}
 }
 

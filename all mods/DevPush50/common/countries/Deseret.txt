@@ -108,25 +108,25 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	battleship = {
 		
 	}
 	ironclad = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	manowar = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	cruiser = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	frigate = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	monitor = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 	clipper_transport = {
 		
@@ -135,6 +135,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni "New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+		"Jeanne d'Arc" "Valeur Éternelle" Charlemagne Vercingétorix "Roi Louis" "Château de Versailles" "Nouveaux Pays-Bas" "Saint Jean" Léonidas "Saint Denis" "Gloire de l'Empire" "Soleil Royal" "Nouvelle France" "Le Saint-Esprit" "L'Apôtre"
 	}
 }

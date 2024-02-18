@@ -1,7 +1,8 @@
-owner=DES
-controller=DES
+owner=FRA
+controller=FRA
 add_core=DES
 add_core=PIM
 add_core=SON
 trade_goods = cattle
 life_rating = 35
+colonial=2

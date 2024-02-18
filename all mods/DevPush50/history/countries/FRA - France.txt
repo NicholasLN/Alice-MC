@@ -5,6 +5,7 @@ culture = breton
 culture = occitan
 culture = picard
 culture = rollonian
+culture = nouvellien
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
