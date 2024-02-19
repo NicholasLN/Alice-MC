@@ -640,7 +640,7 @@ pops = {
 	MIL_HAS_EVERYDAY_NEED = -0.1,
 	MIL_HAS_LUXURY_NEED = -0.2,
 	MIL_NO_LIFE_NEED = 0.2,
-	MIL_REQUIRE_REFORM = 0.2,
+	MIL_REQUIRE_REFORM = 0.1,
 	MIL_IDEOLOGY = -0.1,
 	MIL_RULING_PARTY = -0.1,
 	MIL_REFORM_IMPACT = 2,
@@ -655,7 +655,7 @@ pops = {
 	CON_COLONIAL_FACTOR = 0.5,
 	RULING_PARTY_HAPPY_CHANGE = 0,
 	RULING_PARTY_ANGRY_CHANGE = 0,
-
+	
 	PDEF_BASE_CON = 20.0,			-- so half'ed effect.
 	
 	NATIONAL_FOCUS_DIVIDER = 400000.0,
@@ -663,11 +663,11 @@ pops = {
 	POP_SAVINGS = 0.03,
 	
 	STATE_CREATION_ADMIN_LIMIT = 0.01,
-	MIL_TO_JOIN_REBEL = 7, -- Rebels over this will join a faction
-	MIL_TO_JOIN_RISING = 8, -- Rebels over this will join a general rising
-	MIL_TO_AUTORISE = 9, -- Rebels over this rise no matter what
-	REDUCTION_AFTER_RISEING = 0.0, -- After a pop spawns a rebellion, its militancy will be reduced this much
-	REDUCTION_AFTER_DEFEAT = 7.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
+	MIL_TO_JOIN_REBEL = 8, -- Rebels over this will join a faction
+	MIL_TO_JOIN_RISING = 9, -- Rebels over this will join a general rising
+	MIL_TO_AUTORISE = 10, -- Rebels over this rise no matter what
+	REDUCTION_AFTER_RISEING = 1.5, -- After a pop spawns a rebellion, its militancy will be reduced this much
+	REDUCTION_AFTER_DEFEAT = 10.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
 																-- (if value < 1.0, the MIL will be increased) (Beware! value must be > 0)
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.

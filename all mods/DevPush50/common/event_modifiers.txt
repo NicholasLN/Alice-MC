@@ -126,7 +126,7 @@ considering_colonial_offer = {
 
 the_long_war = {
     badboy = 0.23
-    war_exhaustion = 0.05
+    war_exhaustion = 0.005
     icon = 16
 }
 
@@ -538,7 +538,7 @@ peacetime_mobilization = {
     ruling_party_support = -0.40
     loan_interest = 1
     cb_generation_speed_modifier = -0.2
-    war_exhaustion = 0.05
+    war_exhaustion = 0.005
     prestige = -0.05
     icon = 6
 }
@@ -788,7 +788,7 @@ bad_badboy = {
     land_organisation = -0.1
     naval_organisation = -0.1
     prestige = -0.06
-    war_exhaustion = 0.9
+    war_exhaustion = 0.09
     research_points_modifier = -0.2
     cb_generation_speed_modifier = -0.3
     icon = 8
@@ -1406,7 +1406,7 @@ copperhead_democrats = {
 }
 
 anaconda_plan = {
-    war_exhaustion = 0.05
+    war_exhaustion = 0.005
     icon = 18
 }
 
@@ -2374,7 +2374,7 @@ great_war3 = {
 }
 
 punitive_effects = {
-    war_exhaustion = 2.0
+    war_exhaustion = 0.2
     core_pop_militancy_modifier = 0.1
     diplomatic_points_modifier = -0.5
     prestige = -0.1
@@ -2382,12 +2382,12 @@ punitive_effects = {
 }
 
 no_more_war = {
-    war_exhaustion = 0.5
+    war_exhaustion = 0.05
     icon = 2
 }
 
 end_the_war = {
-    war_exhaustion = 2.0
+    war_exhaustion = 0.20
     icon = 2
 }
 
