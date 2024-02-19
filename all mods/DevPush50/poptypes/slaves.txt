@@ -18,11 +18,11 @@ rebel = {
 
 
 everyday_needs = {
-    coal = 1
+    coal = .1
 }
 
 luxury_needs = {
-    opium = 1
+    opium = .1
 }
 
 ideologies = {

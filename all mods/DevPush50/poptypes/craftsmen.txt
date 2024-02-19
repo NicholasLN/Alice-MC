@@ -7,34 +7,34 @@ can_work_factory = yes
 
 #Total = 11
 life_needs = {
-    cattle = 0.75
-    wool =  1
-    fish =  1
-    fruit =  1
-    grain =  2.5
+    cattle = 0.075
+    wool =  0.1
+    fish =  0.1
+    fruit =  0.1
+    grain =  0.25
 }
 
 #Total cash needed: 59 - Vanilla value: 64
 everyday_needs = {
-    tea = 4                #10.4
-    coal = 1            #2.3
-    liquor = 2.5        #11
-    regular_clothes = 3 #17.4
-    furniture = 3        #14.7
-    coffee = 2            #2.1
-    tobacco = 1            #1.1
+    tea = 0.4                #10.4
+    coal = 0.1            #2.3
+    liquor = 0.25        #11
+    regular_clothes = 0.3 #17.4
+    furniture = 0.3        #14.7
+    coffee = 0.2            #2.1
+    tobacco = 0.1            #1.1
 }
 
 #Total cash needed: 136.78 - Vanilla value: 125.995
 luxury_needs = {
-    regular_clothes = 3
-    furniture = 3
-    paper = 1.0
-    telephones = 1.0
-    automobiles = 0.5
-    radio = 1.0
-    fuel = 0.1
-    #dye = 0.5
+    regular_clothes = 0.3
+    furniture = 0.3
+    paper = 0.10
+    telephones = 0.10
+    automobiles = 0.05
+    radio = 0.10
+    fuel = 0.01
+    #dye = 0.05
 }
 
 
